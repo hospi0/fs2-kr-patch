@@ -1,0 +1,164 @@
+id	원문	번역
+503	&Ok	확인(&O)
+504	&Cancel	취소(&C)
+505	&Yes	예(&Y)
+506	&No	아니오(&N)
+1570	Firing artillery	포격 개시
+1571	Description	설명
+1572	Navigation failure.  Cannot engage subspace drive.	항법 장치 고장. 아공간 드라이브를 가동할 수 없습니다.
+1573	Cannot engage subspace drive while gliding.	활공 중에는 아공간 드라이브를 가동할 수 없습니다.
+1574	Movies are currently disabled.	현재 동영상이 꺼져 있습니다.
+1583	Current Score:	현재 점수:
+1595	Asteroid launched	소행성 발사됨
+1596	impact: %.1f sec	충돌: %.1f초
+1597	rendezvous with 	합류 대상:
+1599	Error\nFailed to delete pilot file. File may be read-only.	오류\n파일럿 파일을 삭제하지 못했습니다. 파일이 읽기 전용일 수 있습니다.
+1600	The currently active campaign cannot be found.  Please select another...	현재 캠페인을 찾을 수 없습니다. 다른 캠페인을 선택하십시오...
+1602	TCP/IP protocol not found.  This protocol is required for multiplayer FreeSpace.	TCP/IP 프로토콜을 찾을 수 없습니다. 멀티플레이어 FreeSpace에는 이 프로토콜이 필요합니다.
+1603	Waiting...	대기 중...
+1604	You have selected TCP/IP for multiplayer FreeSpace, but the TCP socket is already in use.  Check for another instance and/or use the \"-port <port_num>\" command line option to select an available port.	멀티플레이어 FreeSpace에 TCP/IP를 선택했지만 TCP 소켓이 이미 사용 중입니다. 다른 실행 중인 게임이 있는지 확인하거나 명령줄 옵션 -port <포트 번호>로 비어 있는 포트를 지정하십시오.
+1605	Enter mission name.\n\n* This will destroy all legitimate progress in this campaign. *	임무 이름을 입력하십시오.\n\n* 이 캠페인의 정상적인 진행 기록이 모두 사라집니다. *
+1606	Campaign file is currently unavailable	지금은 캠페인 파일을 쓸 수 없습니다
+1607	Go to Campaign Room	캠페인 룸으로 이동
+1608	Select another pilot	다른 파일럿 선택
+1610	Issuing rearm request for %s	%s 재무장 요청 중
+1611	Cannot issue rearm request for %s	%s 재무장을 요청할 수 없습니다
+1612	The currently active campaign cannot be found.  Unable to switch to campaign mode.	현재 캠페인을 찾을 수 없습니다. 캠페인 모드로 전환할 수 없습니다.
+1613	No campaigns are available!	사용할 수 있는 캠페인이 없습니다!
+1616	Energy	에너지
+1618	You must either Accept or Decline before returning to the Main Hall	메인 홀로 돌아가기 전에 수락하거나 거절해야 합니다
+1622	exiting hangar	격납고 이탈 중
+1623	Docked: %d objects	도킹: 객체 %d개
+1624	The %s is required for this mission, but it has not been added to any ship loadout.	이 임무에는 %s이(가) 필요하지만 어떤 함선 무장에도 넣지 않았습니다.
+1626	Gun Banks	기총 뱅크
+1627	Turrets	포탑
+1628	This bank is unable to carry %s weaponry	이 뱅크에는 %s 무기를 장착할 수 없습니다
+1629	%s is unable to carry %s weaponry	%s에는 %s 무기를 장착할 수 없습니다
+1630	%s is unable to carry %s weaponry in primary bank %d	%s의 주무장 뱅크 %d에는 %s 무기를 장착할 수 없습니다
+1631	%s is unable to carry %s weaponry in secondary bank %d	%s의 보조무장 뱅크 %d에는 %s 무기를 장착할 수 없습니다
+1632	Insufficient %s available to arm %s	%s 수량이 부족해 %s에 장착할 수 없습니다
+1633	Not equipped with countermeasures	대응책 미장착
+1634	No countermeasures selected	선택된 대응책 없음
+1635	Subspace drive repaired.	아공간 드라이브 수리 완료.
+1636	Score from kills only:	격추 점수만:
+1639	Supernova Warning: %.2f s	초신성 경보: %.2f초
+1640	Warning!\n\nThe currently active mod has generated %d warnings and/or errors during program startup.  These could have been caused by anything from incorrectly formatted table files to corrupt models.\n\nWhile FreeSpace Open will attempt to compensate for these issues, it cannot guarantee a trouble-free gameplay experience.\n\nPlease contact the authors of the mod for assistance.	경고!\n\n현재 모드가 프로그램 시작 중 경고·오류를 %d건 일으켰습니다. 표 파일 형식 오류부터 손상된 모델까지 원인은 다양할 수 있습니다.\n\nFreeSpace Open이 이 문제들을 보정하려 하지만 문제없는 플레이를 보장할 수는 없습니다.\n\n모드 제작자에게 문의하십시오.
+1641	The following errors were encountered:\n	다음 오류가 발생했습니다:\n
+1643	Setting maximum number of support ships to infinite.	지원함 최대 수를 무제한으로 설정합니다.
+1644	Setting maximum number of support ships to zero.	지원함 최대 수를 0으로 설정합니다.
+1645	All players from team 1 have left the game	1팀 플레이어가 모두 게임을 떠났습니다
+1646	All players from team 2 have left the game	2팀 플레이어가 모두 게임을 떠났습니다
+1647	X Axis	X축
+1648	Y Axis	Y축
+1649	Z Axis	Z축
+1650	rX Axis	rX축
+1651	rY Axis	rY축
+1652	rZ Axis	rZ축
+1653	X1 Button	X1 버튼
+1654	X2 Button	X2 버튼
+1655	Wheel Up	휠 위로
+1656	Wheel Down	휠 아래로
+1657	Wheel Left	휠 왼쪽
+1658	Wheel Right	휠 오른쪽
+1659	Preset: %s	프리셋: %s
+1660	Preset: custom	프리셋: 사용자 지정
+1661	Next Preset	다음 프리셋
+1662	Unable to open pilot file %s!	파일럿 파일 %s을(를) 열 수 없습니다!
+1665	Mouse Input Mode	마우스 입력 방식
+1666	Joy-0	Joy-0
+1667	m	m
+1668	GLIDE	활공
+1669	A/B	A/B
+1670	Emp	EMP
+1672	or	또는
+1673	None	없음
+1674	Nothing	없음
+1691	3D	3D
+1692	2D	2D
+1699	Joy-0	Joy-0
+1774	Mouse	마우스
+1789	Excellent	최상
+1790	High	높음
+1791	Good	좋음
+1792	Average	보통
+1793	Poor	나쁨
+1794	Very Poor	매우 나쁨
+1795	Extremely Poor	극히 나쁨
+1796	Light	경량
+1797	Average	보통
+1798	Medium	중형
+1799	Heavy	중량
+1800	Very Heavy	초중량
+1801	Ultra Heavy	극중량
+1802	Light Capital	경량 주력함
+1803	Medium Capital	중형 주력함
+1804	Heavy Capital	중량 주력함
+1805	Very Heavy Capital	초중량 주력함
+1806	Ultra Heavy Capital	극중량 주력함
+1807	General	일반
+1816	The currently active campaign cannot be loaded.  Unable to switch to campaign mode.	현재 캠페인을 불러올 수 없습니다. 캠페인 모드로 전환할 수 없습니다.
+1818	Save & Close	저장 후 닫기
+1819	Discard & Close	버리고 닫기
+1820	The following options will require a restart. \n\n%s	다음 옵션은 재시작해야 적용됩니다. \n\n%s
+1821	Restart Required	재시작 필요
+1822	Option selections have not been saved. Do you wish to apply your changes?	옵션 선택이 저장되지 않았습니다. 변경 사항을 적용하시겠습니까?
+1823	Save Changes?	변경 사항 저장?
+1830	SCP Options	SCP 옵션
+1850	%s: <unknown>	%s: <알 수 없음>
+1851	%s: inspecting	%s: 조사 중
+1852	<unknown>	<알 수 없음>
+1853	inspecting	조사 중
+1854	A new settings file has been created for the current game or mod. You may want to check the options menu to ensure everything is set to your liking.	현재 게임 또는 모드용 설정 파일을 새로 만들었습니다. 옵션 메뉴에서 원하는 대로 설정됐는지 확인해 보십시오.
+1775	Toggle Gliding	활공 전환
+1776	Cycle Primary Weapon Firing Rate	주 무기 발사 속도 전환
+1777	Top-Down View	하향 시점
+1778	Target Padlock View	대상 고정 시점
+1779	Toggle Auto Pilot	자동 조종 전환
+1780	Cycle Nav Points	항법 지점 순환
+1781	Toggle HUD Drop Shadows	HUD 그림자 전환
+1784	Custom Control 1	사용자 조작 1
+1785	Custom Control 2	사용자 조작 2
+1786	Custom Control 3	사용자 조작 3
+1787	Custom Control 4	사용자 조작 4
+1788	Custom Control 5	사용자 조작 5
+1859	Cycle Primary Weapon Firing Pattern	주 무기 발사 패턴 전환
+1860	U Axis	U 축
+1861	V Axis	V 축
+1866	You have unsaved changes.\n\n\n Do you wish to continue without saving?	저장하지 않은 변경 사항이 있습니다.\n\n\n 저장하지 않고 계속하시겠습니까?
+1867	Confirm new custom preset name.\n\nThe name must not be empty or a default preset.\n\n Press [Enter] to accept, [Esc] to abort to config menu.	새 사용자 프리셋 이름을 확인하십시오.\n\n이름은 비어 있거나 기본 프리셋과 같으면 안 됩니다.\n\n [Enter]로 확정, [Esc]로 설정 메뉴로 돌아갑니다.
+1868	Mouse 	마우스 
+1869	Joy-0 	조이-0 
+1870	Joy-1 	조이-1 
+1871	Joy-2 	조이-2 
+1872	Joy-3 	조이-3 
+1873	None	없음
+1874	Terran Fighter: HUD Message Display	테란 전투기: HUD 메시지 표시
+1875	This is a fixed message	고정 메시지입니다
+1876	Default HUD	기본 HUD
+1877	Could not find the mission filename in the current campaign.	현재 캠페인에서 미션 파일 이름을 찾을 수 없습니다.
+1882	Ships/Weapons Are Locked For This Mission	이 미션에서는 함선·무기가 고정되어 있습니다
+1883	Communication Menu Move Up	통신 메뉴 위로
+1884	Communication Menu Move Down	통신 메뉴 아래로
+1885	Communication Menu Select	통신 메뉴 선택
+1886	%1d.	%1d.
+1887	>>	>>
+1892	Photo Mode	사진 모드
+1893	Controls	조작
+1894	Toggle: %s	전환: %s
+1895	Previous Filter: %s	이전 필터: %s
+1896	Next Filter: %s	다음 필터: %s
+1897	Reset Filters: %s	필터 초기화: %s
+1898	Decrease Parameter: %s	값 감소: %s
+1899	Increase Parameter: %s	값 증가: %s
+1900	Status	상태
+1901	Time Compression: %.2fx	시간 압축: %.2fx
+1902	Cam Pos: X %.1f  Y %.1f  Z %.1f	카메라 위치: X %.1f  Y %.1f  Z %.1f
+1907	Unbound	미지정
+1908	Toggle Photo Mode	사진 모드 전환
+1909	Photo Mode Previous Parameter	사진 모드 이전 항목
+1910	Photo Mode Next Parameter	사진 모드 다음 항목
+1911	Photo Mode Reset Parameters	사진 모드 값 초기화
+1912	Photo Mode Decrease Selected Parameter	사진 모드 선택 값 감소
+1913	Photo Mode Increase Selected Parameter	사진 모드 선택 값 증가
+1914	Effects	효과
+1932	This secondary bank cannot fire dual missiles	이 보조 무장 칸은 미사일 2발 동시 발사를 할 수 없습니다

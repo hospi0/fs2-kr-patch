@@ -1,0 +1,297 @@
+ID	파일	종류	원문	번역
+X99052	mainhall-tlc.tbm	표 mainhall-tlc.tbm	published on the HoloNet	홀로넷에 게시됨
+X888450	scpui-crd.tbm	표 scpui-crd.tbm	SCPUI	SCPUI
+X888451	scpui-crd.tbm	표 scpui-crd.tbm	This mod is released under the following license	이 모드는 다음 라이선스로 배포됩니다
+X888452	scpui-crd.tbm	표 scpui-crd.tbm	Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International	Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+X888453	scpui-crd.tbm	표 scpui-crd.tbm	A copy of this license may be found in data\tables	라이선스 사본은 data\tables 에 있습니다
+X888454	scpui-crd.tbm	표 scpui-crd.tbm	or at creativecommons.org/licenses/by-nc-sa/4.0/	또는 creativecommons.org/licenses/by-nc-sa/4.0/
+X888455	scpui-crd.tbm	표 scpui-crd.tbm	You are free to copy and redistribute this mod in any medium or format	이 모드는 어떤 매체·형식으로든 자유롭게 복사·재배포할 수 있습니다
+X888456	scpui-crd.tbm	표 scpui-crd.tbm	You must give appropriate credit when using this mod	이 모드를 사용할 때는 적절히 출처를 밝혀야 합니다
+X888457	scpui-crd.tbm	표 scpui-crd.tbm	Derivative works of this mod must be released under the same license	이 모드의 2차 저작물은 같은 라이선스로 배포해야 합니다
+X888458	scpui-crd.tbm	표 scpui-crd.tbm	You must obtain permission to use this work for commercial purposes	상업적으로 이용하려면 허락을 받아야 합니다
+X888459	scpui-crd.tbm	표 scpui-crd.tbm	Primary Coders	주요 코더
+X888460	scpui-crd.tbm	표 scpui-crd.tbm	Mike 'MjnMixael' Nelson	Mike 'MjnMixael' Nelson
+X888461	scpui-crd.tbm	표 scpui-crd.tbm	m!m	m!m
+X888462	scpui-crd.tbm	표 scpui-crd.tbm	Contributors	기여자
+X888463	scpui-crd.tbm	표 scpui-crd.tbm	Axem	Axem
+X888464	scpui-crd.tbm	표 scpui-crd.tbm	Lafiel	Lafiel
+X888465	scpui-crd.tbm	표 scpui-crd.tbm	Naomi Weidman	Naomi Weidman
+X888560	scpui-crd.tbm	표 scpui-crd.tbm	wookiejedi	wookiejedi
+X888561	scpui-crd.tbm	표 scpui-crd.tbm	WoolieWool	WoolieWool
+X888559	scpui-crd.tbm	표 scpui-crd.tbm	French translation by Achille	프랑스어 번역: Achille
+X888572	scpui-crd.tbm	표 scpui-crd.tbm	German translation by Belisarius	독일어 번역: Belisarius
+X888573	scpui-crd.tbm	표 scpui-crd.tbm	Polish translation by Shiv	폴란드어 번역: Shiv
+X888000	scpui-tlc.tbm	표 scpui-tlc.tbm	Barracks	병영
+X888001	scpui-tlc.tbm	표 scpui-tlc.tbm	Multi	멀티
+X888002	scpui-tlc.tbm	표 scpui-tlc.tbm	Single	싱글
+X888003	scpui-tlc.tbm	표 scpui-tlc.tbm	Switch between Single and Multiplayer modes	싱글플레이어/멀티플레이어 모드 전환
+X888004	scpui-tlc.tbm	표 scpui-tlc.tbm	Select, Create, Clone, & Delete Pilots	파일럿 선택·생성·복제·삭제
+X888005	scpui-tlc.tbm	표 scpui-tlc.tbm	Create	생성
+X888006	scpui-tlc.tbm	표 scpui-tlc.tbm	Clone	복제
+X888007	scpui-tlc.tbm	표 scpui-tlc.tbm	Delete	삭제
+X888008	scpui-tlc.tbm	표 scpui-tlc.tbm	Select	선택
+X888009	scpui-tlc.tbm	표 scpui-tlc.tbm	Choose Pilot head image	파일럿 얼굴 이미지 선택
+X888010	scpui-tlc.tbm	표 scpui-tlc.tbm	Pilot Stats	파일럿 전적
+X888011	scpui-tlc.tbm	표 scpui-tlc.tbm	View pilot stats	파일럿 전적 보기
+X888012	scpui-tlc.tbm	표 scpui-tlc.tbm	Medals	훈장
+X888013	scpui-tlc.tbm	표 scpui-tlc.tbm	Choose Pilot squad - multiplayer mode only	파일럿 스쿼드 선택 - 멀티플레이어 모드 전용
+X888014	scpui-tlc.tbm	표 scpui-tlc.tbm	Accept	수락
+X888015	scpui-tlc.tbm	표 scpui-tlc.tbm	Help	도움말
+X888016	scpui-tlc.tbm	표 scpui-tlc.tbm	Options	옵션
+X888280	scpui-tlc.tbm	표 scpui-tlc.tbm	Skip Training	훈련 건너뛰기
+X888281	scpui-tlc.tbm	표 scpui-tlc.tbm	Exit Loop	분기 임무 나가기
+X888279	scpui-tlc.tbm	표 scpui-tlc.tbm	Loadout selection not available	무장 선택을 할 수 없습니다
+X888282	scpui-tlc.tbm	표 scpui-tlc.tbm	Skip Mission	임무 건너뛰기
+X888017	scpui-tlc.tbm	표 scpui-tlc.tbm	Submit	제출
+X888018	scpui-tlc.tbm	표 scpui-tlc.tbm	Briefing	브리핑
+X888020	scpui-tlc.tbm	표 scpui-tlc.tbm	Weapon Selection	무기 선택
+X888021	scpui-tlc.tbm	표 scpui-tlc.tbm	Click here to change ship or weapon selection	함선·무기 선택을 바꾸려면 여기를 누르십시오
+X888022	scpui-tlc.tbm	표 scpui-tlc.tbm	Primary Objectives	주요 목표
+X888023	scpui-tlc.tbm	표 scpui-tlc.tbm	Secondary Objectives	부차 목표
+X888024	scpui-tlc.tbm	표 scpui-tlc.tbm	Bonus Objectives	보너스 목표
+X888025	scpui-tlc.tbm	표 scpui-tlc.tbm	Click here to change briefing stages	브리핑 단계를 바꾸려면 여기를 누르십시오
+X888026	scpui-tlc.tbm	표 scpui-tlc.tbm	Ships Locked	함선 고정됨
+X888027	scpui-tlc.tbm	표 scpui-tlc.tbm	Continue	계속
+X888028	scpui-tlc.tbm	표 scpui-tlc.tbm	Click here to begin the mission	임무를 시작하려면 여기를 누르십시오
+X888019	scpui-tlc.tbm	표 scpui-tlc.tbm	Ship Selection	함선 선택
+X888283	scpui-tlc.tbm	표 scpui-tlc.tbm	Stage %d of %d	%d / %d 단계
+X888284	scpui-tlc.tbm	표 scpui-tlc.tbm	Warning	경고
+X888285	scpui-tlc.tbm	표 scpui-tlc.tbm	This will cause all progress in your\nCurrent campaign to be lost	현재 캠페인의 진행 상황이\n모두 사라집니다
+X888286	scpui-tlc.tbm	표 scpui-tlc.tbm	Ok	확인
+X888031	scpui-tlc.tbm	표 scpui-tlc.tbm	Restart Campaign	캠페인 다시 시작
+X888034	scpui-tlc.tbm	표 scpui-tlc.tbm	Proceed to the mission briefing	임무 브리핑으로 진행
+X888296	scpui-tlc.tbm	표 scpui-tlc.tbm	Yes	예
+X888298	scpui-tlc.tbm	표 scpui-tlc.tbm	No	아니오
+X888290	scpui-tlc.tbm	표 scpui-tlc.tbm	Okay	확인
+X888037	scpui-tlc.tbm	표 scpui-tlc.tbm	Targeting	타게팅
+X888038	scpui-tlc.tbm	표 scpui-tlc.tbm	Ship	함선
+X888039	scpui-tlc.tbm	표 scpui-tlc.tbm	Weapons	무기
+X888040	scpui-tlc.tbm	표 scpui-tlc.tbm	Misc	기타
+X888041	scpui-tlc.tbm	표 scpui-tlc.tbm	Clear Conflict	충돌 지우기
+X888042	scpui-tlc.tbm	표 scpui-tlc.tbm	Clear All	모두 지우기
+X888043	scpui-tlc.tbm	표 scpui-tlc.tbm	Clear Selected	선택 지우기
+X888044	scpui-tlc.tbm	표 scpui-tlc.tbm	Undo	되돌리기
+X888045	scpui-tlc.tbm	표 scpui-tlc.tbm	Search	검색
+X888046	scpui-tlc.tbm	표 scpui-tlc.tbm	Bind	할당
+X888047	scpui-tlc.tbm	표 scpui-tlc.tbm	Alt	Alt
+X888048	scpui-tlc.tbm	표 scpui-tlc.tbm	Shift	Shift
+X888049	scpui-tlc.tbm	표 scpui-tlc.tbm	Invert	반전
+X888050	scpui-tlc.tbm	표 scpui-tlc.tbm	Save Preset	프리셋 저장
+X888051	scpui-tlc.tbm	표 scpui-tlc.tbm	Clone Preset	프리셋 복제
+X888052	scpui-tlc.tbm	표 scpui-tlc.tbm	Delete Preset	프리셋 삭제
+X888335	scpui-tlc.tbm	표 scpui-tlc.tbm	Because this mission was a failure, you must replay this mission when you continue your campaign.\n\nReturn to the Flight Deck?	이 임무는 실패했으므로 캠페인을 이어 갈 때 이 임무를 다시 해야 합니다.\n\n비행 갑판으로 돌아가시겠습니까?
+X888331	scpui-tlc.tbm	표 scpui-tlc.tbm	Go to Flight Deck	비행 갑판으로
+X888329	scpui-tlc.tbm	표 scpui-tlc.tbm	Return to Debriefing	디브리핑으로 돌아가기
+X888327	scpui-tlc.tbm	표 scpui-tlc.tbm	Your career is over, Traitor!  You can't accept new missions!	귀관의 경력은 끝났다, 배신자! 새 임무를 받을 수 없다!
+X888325	scpui-tlc.tbm	표 scpui-tlc.tbm	Replay	다시 하기
+X888320	scpui-tlc.tbm	표 scpui-tlc.tbm	Don't Show Me This Again	다시 보지 않기
+X888316	scpui-tlc.tbm	표 scpui-tlc.tbm	Do Not Skip This Mission	이 임무 건너뛰지 않기
+X888315	scpui-tlc.tbm	표 scpui-tlc.tbm	You have failed this mission five times.  If you like, you may advance to the next mission.	이 임무에 다섯 번 실패했습니다. 원하면 다음 임무로 넘어갈 수 있습니다.
+X888314	scpui-tlc.tbm	표 scpui-tlc.tbm	We have no recommendations for you.	권고 사항이 없습니다.
+X888328	scpui-tlc.tbm	표 scpui-tlc.tbm	You have failed this mission and cannot accept.  What do you you wish to do instead?	이 임무에 실패해 수락할 수 없습니다. 대신 무엇을 하시겠습니까?
+X888322	scpui-tlc.tbm	표 scpui-tlc.tbm	If you choose to replay this mission, you will be required to complete it again before proceeding to future missions.\n\nIn addition, any statistics gathered during this mission will be discarded if you choose to replay.	이 임무를 다시 하기로 하면 다음 임무로 넘어가기 전에 이 임무를 다시 완수해야 합니다.\n\n또한 다시 하기를 고르면 이번 임무에서 쌓은 전적은 모두 버려집니다.
+X888318	scpui-tlc.tbm	표 scpui-tlc.tbm	Advance To The Next Mission	다음 임무로 넘어가기
+X888345	scpui-tlc.tbm	표 scpui-tlc.tbm	No, retry later	아니오, 나중에 다시 시도
+X888340	scpui-tlc.tbm	표 scpui-tlc.tbm	Accept this mission outcome?	이 임무 결과를 받아들이시겠습니까?
+X888562	scpui-tlc.tbm	표 scpui-tlc.tbm	Mission Kills by Ship Type	함선 종류별 임무 격추
+X888055	scpui-tlc.tbm	표 scpui-tlc.tbm	Debriefing	디브리핑
+X888056	scpui-tlc.tbm	표 scpui-tlc.tbm	Statistics	전적
+X888057	scpui-tlc.tbm	표 scpui-tlc.tbm	Receive your mission debriefing or view your mission stats	임무 디브리핑을 받거나 임무 전적을 봅니다
+X888058	scpui-tlc.tbm	표 scpui-tlc.tbm	Replay Mission	임무 다시 하기
+X888059	scpui-tlc.tbm	표 scpui-tlc.tbm	Recommendations	권고 사항
+X888060	scpui-tlc.tbm	표 scpui-tlc.tbm	See advice on improving your performance	실력을 높이기 위한 조언 보기
+X888347	scpui-tlc.tbm	표 scpui-tlc.tbm	GAME IS PAUSED	일시 정지
+X888065	scpui-tlc.tbm	표 scpui-tlc.tbm	Reset	초기화
+X888066	scpui-tlc.tbm	표 scpui-tlc.tbm	Clear	지우기
+X888067	scpui-tlc.tbm	표 scpui-tlc.tbm	Default	기본값
+X888069	scpui-tlc.tbm	표 scpui-tlc.tbm	On	켜짐
+X888070	scpui-tlc.tbm	표 scpui-tlc.tbm	Off	꺼짐
+X888071	scpui-tlc.tbm	표 scpui-tlc.tbm	Popup	팝업
+X888072	scpui-tlc.tbm	표 scpui-tlc.tbm	Use Default	기본값 사용
+X888073	scpui-tlc.tbm	표 scpui-tlc.tbm	Select All	모두 선택
+X888074	scpui-tlc.tbm	표 scpui-tlc.tbm	Save as Preset	프리셋으로 저장
+X888354	scpui-tlc.tbm	표 scpui-tlc.tbm	Decline	거절
+X888356	scpui-tlc.tbm	표 scpui-tlc.tbm	You must either Accept or Decline before returning to the Main Hall	메인 홀로 돌아가기 전에 수락하거나 거절해야 합니다
+X888571	scpui-tlc.tbm	표 scpui-tlc.tbm	all	all
+X888078	scpui-tlc.tbm	표 scpui-tlc.tbm	Ribbons	약장
+X888563	scpui-tlc.tbm	표 scpui-tlc.tbm	Achievements	업적
+X888564	scpui-tlc.tbm	표 scpui-tlc.tbm	Hidden Achievements	숨겨진 업적
+X888565	scpui-tlc.tbm	표 scpui-tlc.tbm	Type the name of the achievement to reset progress or type 'all' to reset all achievements.	진행도를 초기화할 업적 이름을 입력하거나, 모든 업적을 초기화하려면 'all' 을 입력하십시오.
+X888566	scpui-tlc.tbm	표 scpui-tlc.tbm	Reset Achievement	업적 초기화
+X888082	scpui-tlc.tbm	표 scpui-tlc.tbm	Objectives	목표
+X888083	scpui-tlc.tbm	표 scpui-tlc.tbm	Messages	메시지
+X888084	scpui-tlc.tbm	표 scpui-tlc.tbm	Events	이벤트
+X888086	scpui-tlc.tbm	표 scpui-tlc.tbm	Squadwar	스쿼드워
+X888087	scpui-tlc.tbm	표 scpui-tlc.tbm	Team 1	1팀
+X888088	scpui-tlc.tbm	표 scpui-tlc.tbm	Team 2	2팀
+X888089	scpui-tlc.tbm	표 scpui-tlc.tbm	Pilot Info	파일럿 정보
+X888091	scpui-tlc.tbm	표 scpui-tlc.tbm	Cancel	취소
+X888092	scpui-tlc.tbm	표 scpui-tlc.tbm	AI Orders	AI 명령
+X888098	scpui-tlc.tbm	표 scpui-tlc.tbm	Respawn Limit	재출격 제한
+X888099	scpui-tlc.tbm	표 scpui-tlc.tbm	Kill Limit	격추 제한
+X888102	scpui-tlc.tbm	표 scpui-tlc.tbm	Exit	나가기
+X888095	scpui-tlc.tbm	표 scpui-tlc.tbm	Host Modifies Ships	호스트가 함선 변경
+X888094	scpui-tlc.tbm	표 scpui-tlc.tbm	Difficulty	난이도
+X888100	scpui-tlc.tbm	표 scpui-tlc.tbm	Observers Limit	관전자 제한
+X888097	scpui-tlc.tbm	표 scpui-tlc.tbm	Time Limit (minutes)	시간 제한(분)
+X888096	scpui-tlc.tbm	표 scpui-tlc.tbm	Enable/Disable	켜기/끄기
+X888093	scpui-tlc.tbm	표 scpui-tlc.tbm	End Mission	임무 종료
+X888109	scpui-tlc.tbm	표 scpui-tlc.tbm	Kick	강퇴
+X888110	scpui-tlc.tbm	표 scpui-tlc.tbm	Close	닫기
+X888112	scpui-tlc.tbm	표 scpui-tlc.tbm	Commit	확정
+X888113	scpui-tlc.tbm	표 scpui-tlc.tbm	Host Options	호스트 옵션
+X888105	scpui-tlc.tbm	표 scpui-tlc.tbm	Campaigns	캠페인
+X888104	scpui-tlc.tbm	표 scpui-tlc.tbm	Missions	임무
+X888115	scpui-tlc.tbm	표 scpui-tlc.tbm	Status	상태
+X888116	scpui-tlc.tbm	표 scpui-tlc.tbm	Type	유형
+X888122	scpui-tlc.tbm	표 scpui-tlc.tbm	Create Game	게임 만들기
+X888124	scpui-tlc.tbm	표 scpui-tlc.tbm	Join	참가
+X888121	scpui-tlc.tbm	표 scpui-tlc.tbm	Join as Observer	관전자로 참가
+X888120	scpui-tlc.tbm	표 scpui-tlc.tbm	Refresh	새로 고침
+X888119	scpui-tlc.tbm	표 scpui-tlc.tbm	Ping	핑
+X888118	scpui-tlc.tbm	표 scpui-tlc.tbm	Players	플레이어
+X888117	scpui-tlc.tbm	표 scpui-tlc.tbm	Server	서버
+X888132	scpui-tlc.tbm	표 scpui-tlc.tbm	Join Channel	채널 참가
+X888131	scpui-tlc.tbm	표 scpui-tlc.tbm	Find Pilot	파일럿 찾기
+X888135	scpui-tlc.tbm	표 scpui-tlc.tbm	MOTD	오늘의 메시지
+X888129	scpui-tlc.tbm	표 scpui-tlc.tbm	Web Ranking	웹 랭킹
+X888133	scpui-tlc.tbm	표 scpui-tlc.tbm	Join Private	비공개 참가
+X888145	scpui-tlc.tbm	표 scpui-tlc.tbm	Allow Rank Below	낮은 계급 허용
+X888141	scpui-tlc.tbm	표 scpui-tlc.tbm	Game Type	게임 유형
+X888142	scpui-tlc.tbm	표 scpui-tlc.tbm	Open	공개
+X888140	scpui-tlc.tbm	표 scpui-tlc.tbm	Title	제목
+X888143	scpui-tlc.tbm	표 scpui-tlc.tbm	Password Protected	암호 보호
+X888144	scpui-tlc.tbm	표 scpui-tlc.tbm	Allow Rank Above	높은 계급 허용
+X888150	scpui-tlc.tbm	표 scpui-tlc.tbm	Launch	시작
+X888390	scpui-tlc.tbm	표 scpui-tlc.tbm	Exit Game?	게임을 종료하시겠습니까?
+X888385	scpui-tlc.tbm	표 scpui-tlc.tbm	Restart required	재시작 필요
+X888381	scpui-tlc.tbm	표 scpui-tlc.tbm	IP Address already listed!	이미 등록된 IP 주소입니다!
+X888377	scpui-tlc.tbm	표 scpui-tlc.tbm	Ip string is invalid!	IP 형식이 올바르지 않습니다!
+X888384	scpui-tlc.tbm	표 scpui-tlc.tbm	<p>The following changes require a restart to apply their changes:</p><p>%s</p>	<p>다음 변경 사항은 재시작해야 적용됩니다:</p><p>%s</p>
+X888376	scpui-tlc.tbm	표 scpui-tlc.tbm	Invalid IP	잘못된 IP
+X888394	scpui-tlc.tbm	표 scpui-tlc.tbm	Increases or decreases the font size	글자 크기를 키우거나 줄입니다
+X888393	scpui-tlc.tbm	표 scpui-tlc.tbm	Font Size Adjustment	글자 크기 조절
+X888380	scpui-tlc.tbm	표 scpui-tlc.tbm	Duplicate IP	중복된 IP
+X888554	scpui-tlc.tbm	표 scpui-tlc.tbm	Brief Render Option	브리핑 렌더링 방식
+X888555	scpui-tlc.tbm	표 scpui-tlc.tbm	Toggles rendering directly to screen or to a texture. Can fix flickering in the briefing map.	화면에 바로 그릴지 텍스처에 그릴지 바꿉니다. 브리핑 지도가 깜박일 때 해결될 수 있습니다.
+X888556	scpui-tlc.tbm	표 scpui-tlc.tbm	Texture	텍스처
+X888557	scpui-tlc.tbm	표 scpui-tlc.tbm	Screen	화면
+X888159	scpui-tlc.tbm	표 scpui-tlc.tbm	Control Config	조작 설정
+X888153	scpui-tlc.tbm	표 scpui-tlc.tbm	Basic	기본
+X888155	scpui-tlc.tbm	표 scpui-tlc.tbm	Graphics	그래픽
+X888156	scpui-tlc.tbm	표 scpui-tlc.tbm	Settings	설정
+X888161	scpui-tlc.tbm	표 scpui-tlc.tbm	Exit Game	게임 종료
+X888160	scpui-tlc.tbm	표 scpui-tlc.tbm	HUD Config	HUD 설정
+X888164	scpui-tlc.tbm	표 scpui-tlc.tbm	Joystick Selections	조이스틱 선택
+X888165	scpui-tlc.tbm	표 scpui-tlc.tbm	Global Joystick Settings	조이스틱 공통 설정
+X888163	scpui-tlc.tbm	표 scpui-tlc.tbm	Brightness	밝기
+X888162	scpui-tlc.tbm	표 scpui-tlc.tbm	Volume	음량
+X888166	scpui-tlc.tbm	표 scpui-tlc.tbm	Game Options	게임 옵션
+X888168	scpui-tlc.tbm	표 scpui-tlc.tbm	Mod Default	모드 기본값
+X888167	scpui-tlc.tbm	표 scpui-tlc.tbm	Custom	사용자 지정
+X888169	scpui-tlc.tbm	표 scpui-tlc.tbm	Preset Graphics Level	그래픽 수준 프리셋
+X888170	scpui-tlc.tbm	표 scpui-tlc.tbm	Minimum	최소
+X888171	scpui-tlc.tbm	표 scpui-tlc.tbm	Low	낮음
+X888172	scpui-tlc.tbm	표 scpui-tlc.tbm	Medium	중간
+X888173	scpui-tlc.tbm	표 scpui-tlc.tbm	High	높음
+X888174	scpui-tlc.tbm	표 scpui-tlc.tbm	Ultra	최고
+X888190	scpui-tlc.tbm	표 scpui-tlc.tbm	Mute Players	플레이어 음소거
+X888183	scpui-tlc.tbm	표 scpui-tlc.tbm	Pass	통과
+X888185	scpui-tlc.tbm	표 scpui-tlc.tbm	Voice Transmission	음성 전송
+X888184	scpui-tlc.tbm	표 scpui-tlc.tbm	Squad	스쿼드
+X888188	scpui-tlc.tbm	표 scpui-tlc.tbm	Voice Quality	음성 품질
+X888189	scpui-tlc.tbm	표 scpui-tlc.tbm	Mic Test	마이크 테스트
+X888191	scpui-tlc.tbm	표 scpui-tlc.tbm	Mute	음소거
+X888176	scpui-tlc.tbm	표 scpui-tlc.tbm	IP Address	IP 주소
+X888177	scpui-tlc.tbm	표 scpui-tlc.tbm	Del	삭제
+X888178	scpui-tlc.tbm	표 scpui-tlc.tbm	Add	추가
+X888179	scpui-tlc.tbm	표 scpui-tlc.tbm	PXO Login	PXO 로그인
+X888180	scpui-tlc.tbm	표 scpui-tlc.tbm	Broadcast Locally	로컬 방송
+X888181	scpui-tlc.tbm	표 scpui-tlc.tbm	PXO	PXO
+X888182	scpui-tlc.tbm	표 scpui-tlc.tbm	Login	로그인
+X888192	scpui-tlc.tbm	표 scpui-tlc.tbm	Choose Pilot	파일럿 선택
+X888199	scpui-tlc.tbm	표 scpui-tlc.tbm	Single Player Mode	싱글플레이어 모드
+X888201	scpui-tlc.tbm	표 scpui-tlc.tbm	Copyright © 1999, Volition, Inc.  All rights reserved.	Copyright © 1999, Volition, Inc.  All rights reserved.
+X888200	scpui-tlc.tbm	표 scpui-tlc.tbm	Multi Player Mode	멀티플레이어 모드
+X888404	scpui-tlc.tbm	표 scpui-tlc.tbm	Disabled!	사용할 수 없음!
+X888408	scpui-tlc.tbm	표 scpui-tlc.tbm	Error	오류
+X888409	scpui-tlc.tbm	표 scpui-tlc.tbm	Failed to delete pilot file. File may be read-only.	파일럿 파일을 삭제하지 못했습니다. 파일이 읽기 전용일 수 있습니다.
+X888407	scpui-tlc.tbm	표 scpui-tlc.tbm	Are you sure you wish to delete this pilot?	이 파일럿을 정말 삭제하시겠습니까?
+X888395	scpui-tlc.tbm	표 scpui-tlc.tbm	Warning!	경고!
+X888397	scpui-tlc.tbm	표 scpui-tlc.tbm	You must select a valid pilot first	먼저 올바른 파일럿을 선택해야 합니다
+X888401	scpui-tlc.tbm	표 scpui-tlc.tbm	A duplicate pilot exists\nOverwrite?	같은 이름의 파일럿이 있습니다\n덮어쓰시겠습니까?
+X888202	scpui-tlc.tbm	표 scpui-tlc.tbm	Replay Previous Mission	이전 임무 다시 하기
+X888203	scpui-tlc.tbm	표 scpui-tlc.tbm	Incoming Transmission	통신 수신
+X888214	scpui-tlc.tbm	표 scpui-tlc.tbm	Revert to the original ship distribution	원래 함선 배치로 되돌리기
+X888209	scpui-tlc.tbm	표 scpui-tlc.tbm	Click here to return to the briefing or change weapon selection	브리핑으로 돌아가거나 무기 선택을 바꾸려면 여기를 누르십시오
+X888210	scpui-tlc.tbm	표 scpui-tlc.tbm	Read Description	설명 읽기
+X888211	scpui-tlc.tbm	표 scpui-tlc.tbm	Choose a new ship type by dragging its icon over one of the available wing slots	아이콘을 빈 편대 칸으로 끌어 새 함선 종류를 고르십시오
+X888424	scpui-tlc.tbm	표 scpui-tlc.tbm	Missile Banks	미사일 뱅크
+X888425	scpui-tlc.tbm	표 scpui-tlc.tbm	Manufacturer	제조사
+X888421	scpui-tlc.tbm	표 scpui-tlc.tbm	Hull Strength	선체 강도
+X888422	scpui-tlc.tbm	표 scpui-tlc.tbm	Shield Strength	실드 강도
+X888423	scpui-tlc.tbm	표 scpui-tlc.tbm	Gun Mounts	기총 장착부
+X888414	scpui-tlc.tbm	표 scpui-tlc.tbm	Class	등급
+X888416	scpui-tlc.tbm	표 scpui-tlc.tbm	Length	길이
+X888417	scpui-tlc.tbm	표 scpui-tlc.tbm	Max Velocity	최대 속도
+X888418	scpui-tlc.tbm	표 scpui-tlc.tbm	 m/s with afterburner	 m/s (애프터버너)
+X888419	scpui-tlc.tbm	표 scpui-tlc.tbm	Maneuverability	기동성
+X888420	scpui-tlc.tbm	표 scpui-tlc.tbm	Armor	장갑
+X888220	scpui-tlc.tbm	표 scpui-tlc.tbm	Mission Simulator	임무 시뮬레이터
+X888219	scpui-tlc.tbm	표 scpui-tlc.tbm	Technical Database	기술 데이터베이스
+X888222	scpui-tlc.tbm	표 scpui-tlc.tbm	Credits	크레디트
+X888221	scpui-tlc.tbm	표 scpui-tlc.tbm	Cutscenes	컷신
+X888228	scpui-tlc.tbm	표 scpui-tlc.tbm	Play	재생
+X888551	scpui-tlc.tbm	표 scpui-tlc.tbm	Primary	주무장
+X888552	scpui-tlc.tbm	표 scpui-tlc.tbm	Secondary	보조무장
+X888242	scpui-tlc.tbm	표 scpui-tlc.tbm	View the next or previous data entry	다음·이전 항목 보기
+X888243	scpui-tlc.tbm	표 scpui-tlc.tbm	Read in window	창으로 읽기
+X888244	scpui-tlc.tbm	표 scpui-tlc.tbm	Ships	함선
+X888246	scpui-tlc.tbm	표 scpui-tlc.tbm	Intelligence	정보
+X888247	scpui-tlc.tbm	표 scpui-tlc.tbm	Study technical data on all known ships and weapons, as well as historical and species information	알려진 모든 함선·무기의 기술 자료와 역사·종족 정보를 살펴봅니다
+X888234	scpui-tlc.tbm	표 scpui-tlc.tbm	Sort Items	항목 정렬
+X888237	scpui-tlc.tbm	표 scpui-tlc.tbm	Sort the list. Click multiple times to change how the list is sorted.	목록을 정렬합니다. 여러 번 누르면 정렬 방식이 바뀝니다.
+X888236	scpui-tlc.tbm	표 scpui-tlc.tbm	By Name	이름순
+X888241	scpui-tlc.tbm	표 scpui-tlc.tbm	Categorize items. Click multiple times to change how categories are listed.	항목을 분류합니다. 여러 번 누르면 분류 방식이 바뀝니다.
+X888238	scpui-tlc.tbm	표 scpui-tlc.tbm	Categorize	분류
+X888239	scpui-tlc.tbm	표 scpui-tlc.tbm	None	없음
+X888240	scpui-tlc.tbm	표 scpui-tlc.tbm	By Type	종류별
+X888254	scpui-tlc.tbm	표 scpui-tlc.tbm	Filename	파일 이름
+X888258	scpui-tlc.tbm	표 scpui-tlc.tbm	Single Missions	단독 임무
+X888257	scpui-tlc.tbm	표 scpui-tlc.tbm	Campaign Missions	캠페인 임무
+X888253	scpui-tlc.tbm	표 scpui-tlc.tbm	Author	제작자
+X888256	scpui-tlc.tbm	표 scpui-tlc.tbm	Select a mission	임무를 선택하십시오
+X888255	scpui-tlc.tbm	표 scpui-tlc.tbm	Description	설명
+X888252	scpui-tlc.tbm	표 scpui-tlc.tbm	Mission	임무
+X888259	scpui-tlc.tbm	표 scpui-tlc.tbm	Filter standalone missions or missions that are in a campaign	단독 임무와 캠페인 소속 임무를 걸러 봅니다
+X888553	scpui-tlc.tbm	표 scpui-tlc.tbm	Other	기타
+X888274	scpui-tlc.tbm	표 scpui-tlc.tbm	Revert to the original weapon distribution	원래 무기 배치로 되돌리기
+X888271	scpui-tlc.tbm	표 scpui-tlc.tbm	Choose a ship to modify the weapons loadout	무장을 바꿀 함선을 고르십시오
+X888270	scpui-tlc.tbm	표 scpui-tlc.tbm	Choose a new weapon type by dragging its icon over one of the available weapon slots	아이콘을 빈 무기 칸으로 끌어 새 무기 종류를 고르십시오
+X888269	scpui-tlc.tbm	표 scpui-tlc.tbm	Copy to wing	편대에 복사
+X888267	scpui-tlc.tbm	표 scpui-tlc.tbm	Click here to return to the briefing or change ship selection	브리핑으로 돌아가거나 함선 선택을 바꾸려면 여기를 누르십시오
+X888441	scpui-tlc.tbm	표 scpui-tlc.tbm	Power Use	전력 소모
+X888442	scpui-tlc.tbm	표 scpui-tlc.tbm	W	W
+X888443	scpui-tlc.tbm	표 scpui-tlc.tbm	Rate of Fire	연사율
+X888444	scpui-tlc.tbm	표 scpui-tlc.tbm	That weapon slot can't accept that weapon type	그 무기 칸에는 그 무기 종류를 장착할 수 없습니다
+X888432	scpui-tlc.tbm	표 scpui-tlc.tbm	Damage per missile	미사일당 피해
+X888430	scpui-tlc.tbm	표 scpui-tlc.tbm	Velocity	속도
+X888433	scpui-tlc.tbm	표 scpui-tlc.tbm	Damage per volley	일제 사격당 피해
+X888437	scpui-tlc.tbm	표 scpui-tlc.tbm	Damage per second	초당 피해
+X888434	scpui-tlc.tbm	표 scpui-tlc.tbm	Hull	선체
+X888435	scpui-tlc.tbm	표 scpui-tlc.tbm	Shield	실드
+X888436	scpui-tlc.tbm	표 scpui-tlc.tbm	Subsystem	서브시스템
+X888431	scpui-tlc.tbm	표 scpui-tlc.tbm	Range	사거리
+X888558	scpui-tlc.tbm	표 scpui-tlc.tbm	Cargo Size	화물 크기
+X888549	scpui-tlc.tbm	표 scpui-tlc.tbm	New!	새 항목!
+X888550	scpui-tlc.tbm	표 scpui-tlc.tbm	Journal	일지
+X888546	scpui-tlc.tbm	표 scpui-tlc.tbm	Please make a selection below.	아래에서 선택하십시오.
+X888548	scpui-tlc.tbm	표 scpui-tlc.tbm	No Selection	선택 없음
+X888567	scpui-tlc.tbm	표 scpui-tlc.tbm	Please make a selection.	선택하십시오.
+X888568	scpui-tlc.tbm	표 scpui-tlc.tbm	System: 	항성계: 
+X888569	scpui-tlc.tbm	표 scpui-tlc.tbm	Type of System: 	항성계 유형: 
+X888570	scpui-tlc.tbm	표 scpui-tlc.tbm	Controlling Faction: 	지배 세력: 
+X888574	scpui-tlc.tbm	표 scpui-tlc.tbm	CONFLICT!	충돌!
+X888575	scpui-tlc.tbm	표 scpui-tlc.tbm	Back	뒤로
+X888576	scpui-tlc.tbm	표 scpui-tlc.tbm	Zoom To	확대
+X999194	fsu_credits-crd.tbm	표 fsu_credits-crd.tbm(원문 바뀜)	Vasudan countermeasure ~ Durandal	바수단 대응책 ~ Durandal

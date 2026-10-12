@@ -1,0 +1,84 @@
+id	640	1024	근거(오른쪽 정렬 무리)
+645	0	5	multi_pxo.cpp:Multi_pxo_com_text
+669	0	-26	multi_pxo.cpp:Multi_pxo_com_text
+928	2	2	missioncmdbrief.cpp:Cmd_brief_text missiondebrief.cpp:Debrief_strings multiui.cpp:Multi_join_text multiui.cpp:Multi_sg_text
+1035	28	28	controlsconfig.cpp:CC_text optionsmenu.cpp:Options_text
+1036	33	33	missioncmdbrief.cpp:Cmd_brief_text missiondebrief.cpp:Debrief_strings multiui.cpp:Multi_join_text multiui.cpp:Multi_sg_text optionsmenu.cpp:Options_text
+1042	16	16	optionsmenu.cpp:Options_text
+1160	7	7	optionsmenu.cpp:Options_text optionsmenumulti.cpp:Om_gen_text
+1161	27	27	optionsmenu.cpp:Options_text optionsmenumulti.cpp:Om_gen_text
+1162	9	9	optionsmenu.cpp:Options_text optionsmenumulti.cpp:Om_gen_text
+1163	24	24	optionsmenu.cpp:Options_text
+1285	0	-2	optionsmenu.cpp:Options_text
+1286	4	0	optionsmenu.cpp:Options_text optionsmenumulti.cpp:Om_vox_text
+1291	23	0	multiui.cpp:Multi_ho_titles
+1292	12	0	multiui.cpp:Multi_ho_titles
+1293	21	0	multiui.cpp:Multi_ho_titles
+1297	0	49	multiui.cpp:Multi_ho_titles
+1298	0	31	multiui.cpp:Multi_ho_titles
+1300	9	9	multiui.cpp:Multi_join_text
+1301	32	32	multiui.cpp:Multi_join_text
+1307	17	17	multiui.cpp:Multi_join_text
+1310	4	4	multi_pxo.cpp:Multi_pxo_text
+1311	8	8	multi_pxo.cpp:Multi_pxo_text
+1313	0	17	multi_pxo.cpp:Multi_pxo_text
+1314	0	32	multi_pxo.cpp:Multi_pxo_text
+1317	36	36	multi_pxo.cpp:Multi_pxo_text
+1318	18	18	multi_pxo.cpp:Multi_pxo_text
+1323	30	0	multiui.cpp:Multi_sg_text
+1324	42	42	multiui.cpp:Multi_sg_text
+1329	37	37	multiui.cpp:Multi_sg_text
+1331	30	0	multiui.cpp:Multi_sg_text
+1340	35	0	controlsconfig.cpp:CC_text
+1343	-5	0	controlsconfig.cpp:CC_text
+1345	27	0	controlsconfig.cpp:CC_text
+1349	-6	-6	controlsconfig.cpp:CC_text
+1354	4	0	optionsmenu.cpp:Options_text
+1355	71	71	optionsmenu.cpp:Options_text
+1356	-2	-2	optionsmenu.cpp:Options_text
+1357	104	104	optionsmenu.cpp:Options_text
+1358	81	81	optionsmenu.cpp:Options_text
+1359	40	40	optionsmenu.cpp:Options_text
+1362	0	71	optionsmenu.cpp:Options_text
+1363	33	0	optionsmenu.cpp:Options_text
+1364	61	0	optionsmenu.cpp:Options_text
+1366	0	29	optionsmenu.cpp:Options_text
+1367	33	33	optionsmenu.cpp:Options_text
+1368	43	0	optionsmenu.cpp:Options_text
+1369	29	29	optionsmenu.cpp:Options_text
+1370	0	22	optionsmenu.cpp:Options_text
+1371	0	18	optionsmenu.cpp:Options_text
+1372	0	16	optionsmenu.cpp:Options_text
+1374	0	50	optionsmenu.cpp:Options_text
+1375	53	53	optionsmenu.cpp:Options_text
+1376	18	0	optionsmenu.cpp:Options_text
+1377	36	36	optionsmenu.cpp:Options_text
+1378	0	7	optionsmenumulti.cpp:Om_pro_text
+1381	6	0	optionsmenumulti.cpp:Om_pro_text
+1384	6	0	optionsmenumulti.cpp:Om_pro_text
+1385	0	27	optionsmenumulti.cpp:Om_pro_text
+1386	0	27	optionsmenumulti.cpp:Om_pro_text
+1388	0	34	optionsmenumulti.cpp:Om_pro_text
+1389	-4	0	optionsmenumulti.cpp:Om_vox_text
+1390	3	0	optionsmenumulti.cpp:Om_vox_text
+1391	40	0	optionsmenumulti.cpp:Om_gen_text
+1392	2	2	optionsmenumulti.cpp:Om_gen_text
+1393	47	47	optionsmenumulti.cpp:Om_gen_text
+1396	0	84	optionsmenumulti.cpp:Om_gen_text
+1397	19	19	optionsmenumulti.cpp:Om_gen_text
+1398	15	15	optionsmenumulti.cpp:Om_gen_text
+1400	16	16	optionsmenumulti.cpp:Om_gen_text
+1401	55	55	optionsmenumulti.cpp:Om_gen_text
+1408	26	26	multiui.cpp:Multi_join_text
+1412	14	0	optionsmenu.cpp:Options_text
+1413	0	19	controlsconfig.cpp:CC_text
+1442	27	0	missionbrief.cpp:Brief_select_text
+1477	15	0	missionbrief.cpp:Brief_select_text
+1505	8	8	multi_pxo.cpp:Multi_pxo_text
+1506	8	8	multi_pxo.cpp:Multi_pxo_text
+1509	49	49	optionsmenu.cpp:Options_text
+1511	11	0	controlsconfig.cpp:CC_text
+1519	2	0	missionhotkey.cpp:Hotkey_text
+1520	33	0	missionhotkey.cpp:Hotkey_text
+1528	0	16	optionsmenumulti.cpp:Om_pro_text
+1529	50	0	optionsmenu.cpp:Options_text

@@ -1,0 +1,1558 @@
+id	원문	번역
+0	Player ship changed to %s	플레이어 함선이 %s(으)로 변경되었습니다
+1	Changed player target to %s	플레이어 대상이 %s(으)로 변경되었습니다
+2	Soundtrack changed to: %s	사운드트랙이 다음으로 변경되었습니다: %s
+3	Event music is not playing	이벤트 음악이 재생되고 있지 않습니다
+4	Framerate delay increased to %i milliseconds per frame.	프레임 지연이 프레임당 %i밀리초로 증가했습니다.
+5	Framerate delay decreased to %i milliseconds per frame.	프레임 지연이 프레임당 %i밀리초로 감소했습니다.
+6	Countermeasure firing: %s	대응 장치 발사: %s
+7	ENABLED	활성화
+8	DISABLED	비활성화
+9	You whacked yourself down to %7.3f percent hull.\n	스스로를 때려서 선체가 %7.3f퍼센트로 떨어졌습니다.\n
+10	You are %s	당신은 %s
+11	now INVULNERABLE!	이제 무적입니다!
+12	no longer invulnerable...	더 이상 무적이 아닙니다...
+13	Player's target [%s] is %s	플레이어의 대상 [%s]은(는) %s
+14	Spewing debug info about object #%d	오브젝트 #%d의 디버그 정보를 출력합니다
+15	Weapon energy and missile count will always be at full ALL SHIPS!	모든 함선의 무기 에너지와 미사일이 항상 가득 찹니다!
+16	Weapon energy and missile count will always be at full for player	플레이어의 무기 에너지와 미사일이 항상 가득 찹니다
+17	Normal weapon energy system / missile count restored	일반 무기 에너지 시스템 / 미사일 수가 복원되었습니다
+18	Secondary Weapon forced to %s	보조 무기가 %s(으)로 고정되었습니다
+19	Primary Weapon forced to %s	주 무기가 %s(으)로 고정되었습니다
+20	Event music disabled	이벤트 음악 꺼짐
+21	Event music enabled	이벤트 음악 켜짐
+22	Detail level set to %+d\n	세부 수준이 %+d(으)로 설정되었습니다\n
+23	Frame Rate test started	프레임 레이트 테스트가 시작되었습니다
+24	Species of target changed to: %s	대상의 종족이 다음으로 변경되었습니다: %s
+25	Skill level set to %s.	난이도가 %s(으)로 설정되었습니다.
+26	No target to add/remove from set %d.	집합 %d에 추가하거나 제거할 대상이 없습니다.
+27	%s added to set %d. (F%d)	%s이(가) 집합 %d에 추가되었습니다. (F%d)
+28	&Yes, Quit	예, 종료(&Y)
+29	Yes, &Restart	예, 다시 시작(&R)
+30	Do you really want to end the mission?	정말 임무를 종료하시겠습니까?
+31	Cheats enabled.	치트가 활성화되었습니다.
+32	All movies available in Tech Room	테크 룸에서 모든 영상을 볼 수 있습니다
+33	This ship has no secondary weapons	이 함선에는 보조 무기가 없습니다
+34	Secondary weapon set to normal fire mode	보조 무기가 일반 발사 모드로 설정되었습니다
+35	Secondary weapon set to dual fire mode	보조 무기가 이중 발사 모드로 설정되었습니다
+36	External camera is locked, controls will move ship	외부 카메라가 고정되었습니다. 조작 시 함선이 움직입니다
+37	External camera is free, controls will move the camera, not the ship	외부 카메라가 자유로운 상태입니다. 조작 시 함선이 아닌 카메라가 움직입니다
+38	Radar range set to %s	레이더 범위가 %s(으)로 설정되었습니다
+39	** WARNING ** Collision danger.  Warpout not activated.	** 경고 ** 충돌 위험. 워프 아웃이 작동하지 않았습니다.
+40	Engine failure.  Cannot engage warp drive.	엔진 고장. 워프 드라이브를 가동할 수 없습니다.
+41	&Retry	다시 시도(&R)
+42	&Ignore	무시(&I)
+43	&Quit Game	게임 종료(&Q)
+44	Warning\nFailed to save pilot file.  You may be out of disk space.  If so, you should press Alt-Tab, free up some disk space, then come back and choose retry.\n	경고\n파일럿 파일을 저장하지 못했습니다. 디스크 공간이 부족할 수 있습니다. 그렇다면 Alt-Tab을 눌러 디스크 공간을 확보한 후 돌아와서 재시도를 선택하십시오.\n
+45	\'	\'
+46	\'s	\'s
+47	&No	아니오(&N)
+48	&Yes	예(&Y)
+49	Warning\nA duplicate pilot exists\nOverwrite?	경고\n같은 이름의 파일럿이 이미 있습니다\n덮어쓰시겠습니까?
+50	*All Time Stats	*전체 기간 통계
+51	Primary weapon shots:	주 무기 발사 수:
+52	Primary weapon hits:	주 무기 명중 수:
+53	Primary friendly hits:	주 무기 아군 명중 수:
+54	Primary hit %:	주 무기 명중률:
+55	%.1f%%	%.1f%%
+56	Primary friendly hit %:	주 무기 아군 명중률:
+57	Secondary weapon shots:	보조 무기 발사 수:
+58	Secondary weapon hits:	보조 무기 명중 수:
+59	Secondary friendly hits:	보조 무기 아군 명중 수:
+60	Secondary hit %:	보조 무기 명중률:
+61	Secondary friendly hit %:	보조 무기 아군 명중률:
+62	Total kills:	총 격추 수:
+63	Assists:	지원 횟수:
+64	*Kills by Ship Type	*함선 유형별 격추 수
+65	Warning!\n\nAre you sure you wish to delete this pilot?	경고!\n\n이 파일럿을 정말 삭제하시겠습니까?
+66	You must create a single player pilot.	싱글 플레이어 파일럿을 만들어야 합니다.
+67	You must create a multi player pilot.	멀티 플레이어 파일럿을 만들어야 합니다.
+68	multiplayer	멀티플레이어
+69	single player	싱글 플레이어
+70	This will overwrite your %s pilot.  Proceed?	%s 파일럿을 덮어쓰게 됩니다. 계속하시겠습니까?
+71	%d of %d	%d / %d
+72	mdls	모델
+73	pause	일시정지
+74	wpns	무기
+75	god view	신의 시점
+76	plyr view	플레이어 시점
+77	prev view	이전 시점
+78	zoom in	확대
+79	zoom out	축소
+80	hit ESC to exit	ESC를 눌러 종료
+81	Cannot warp out at this time.	지금은 워프 아웃할 수 없습니다.
+82	Unable to engage warp... ship must be able to reach %.1f km/s	워프를 가동할 수 없습니다... 함선이 %.1f km/s에 도달할 수 있어야 합니다
+83	passengers:\n   %s	승객:\n   %s
+84	cargo: %s	화물: %s
+85	Scanned	스캔됨
+86	cargo: <unknown>	화물: <알 수 없음>
+87	not scanned	스캔되지 않음
+88	cargo: inspecting	화물: 검사 중
+89	scanning	스캔 중
+90	missile	미사일
+91	laser fire	레이저 사격
+92	%s was killed by a missile shockwave	%s이(가) 미사일 충격파에 의해 격추되었습니다
+93	%s was killed by a shockwave from %s exploding	%s이(가) %s의 폭발 충격파에 의해 격추되었습니다
+94	%s was killed by %s	%s이(가) %s에게 격추되었습니다
+95	%s was killed by a blast from %s exploding	%s이(가) %s의 폭발 폭풍에 의해 격추되었습니다
+96	%s was killed by a collision with %s	%s이(가) %s와(과) 충돌하여 격추되었습니다
+97	%s was killed by a collision with debris	%s이(가) 잔해와 충돌하여 격추되었습니다
+98	%s was killed by a collision with an asteroid	%s이(가) 소행성과 충돌하여 격추되었습니다
+99	%s was killed by unknown causes	%s이(가) 원인 불명으로 격추되었습니다
+100	You have killed yourself	스스로를 격추했습니다
+101	top view	상단 시점
+102	rear view	후방 시점
+103	left view	좌측 시점
+104	right view	우측 시점
+105	Quick Start Mission	빠른 시작 임무
+106	Return To Flight Deck	비행 갑판으로 돌아가기
+107	Return To Briefing	브리핑으로 돌아가기
+108	Observer Mode	관전 모드
+109	Respawn	재출격
+110	Warning\nThis will cause all progress in your\ncurrent campaign to be lost	경고\n현재 캠페인의 모든 진행 상황이\n사라집니다
+111	Demo Campaign Is Over.  Would you like to play the campaign again?	데모 캠페인이 끝났습니다. 캠페인을 다시 플레이하시겠습니까?
+112	The campaign is over.  To replay the campaign, either create a new pilot or restart the campaign in the campaign room.	캠페인이 끝났습니다. 캠페인을 다시 플레이하려면 새 파일럿을 만들거나 캠페인 룸에서 캠페인을 다시 시작하십시오.
+113	Warning\nThis will cause all progress in campaign \	경고\n캠페인의 모든 진행 상황이 사라집니다 \
+114	Mission Stats	임무 통계
+115	Total kills	총 격추 수
+116	Primary weapon shots	주 무기 발사 수
+117	Primary weapon hits	주 무기 명중 수
+118	Primary friendly hits	주 무기 아군 명중 수
+119	Primary hit %%	주 무기 명중률 %%
+120	Primary friendly hit %%	주 무기 아군 명중률 %%
+121	Secondary weapon shots	보조 무기 발사 수
+122	Secondary weapon hits	보조 무기 명중 수
+123	Secondary friendly hits	보조 무기 아군 명중 수
+124	Secondary hit %%	보조 무기 명중률 %%
+125	Secondary friendly hit %%	보조 무기 아군 명중률 %%
+126	Assists	지원 횟수
+127	Player Deaths	플레이어 사망 횟수
+128	All Time Stats	전체 기간 통계
+129	, 	, 
+130	no binding	지정 안 됨
+131	 - 	 - 
+132	Page %d of %d	%d / %d 페이지
+133	Basic Keys	기본 키
+134	Function Keys	기능 키
+135	F1	F1
+136	context-sensitive help	상황별 도움말
+137	F2	F2
+138	options screen (available anywhere in game)	옵션 화면 (게임 어디서나 사용 가능)
+139	F3	F3
+140	hotkey assignment	단축키 지정
+141	F4	F4
+142	HUD message scroll-back	HUD 메시지 기록 보기
+143	F5...F12	F5...F12
+144	hotkeys	단축키
+145	Shift-Esc	Shift-Esc
+146	quit FreeSpace 2 immediately	FreeSpace 2 즉시 종료
+147	Movement Keys	이동 키
+148	Basic Targeting Keys	기본 타기팅 키
+149	Advanced Targeting Keys	고급 타기팅 키
+150	Select target assigned to that hotkey	해당 단축키에 지정된 대상 선택
+151	Shift-F5...F12	Shift-F5...F12
+152	Add/remove target from that hotkey	해당 단축키에 대상 추가/제거
+153	Alt-Shift-F5...F12	Alt-Shift-F5...F12
+154	Clear that hotkey	해당 단축키 초기화
+155	Messaging Keys	메시지 키
+156	send specified order to these target(s)	지정된 명령을 해당 대상에게 전달
+157	Weapon Keys	무기 키
+158	Energy Management Keys	에너지 관리 키
+159	Miscellaneous Keys	기타 키
+160	ESC	ESC
+161	invoke abort mission popup	임무 중단 팝업 열기
+162	Pause	Pause
+163	pause game	게임 일시정지
+164	Print Scrn	Print Scrn
+165	take screen shot	스크린샷 촬영
+166	View Keys	시점 키
+167	Multiplayer Keys	멀티플레이어 키
+168	Ingame messaging keys (tap for text, hold for voice)	게임 내 메시지 키 (탭하면 텍스트, 누르고 있으면 음성)
+169	Attempt to load the mission failed	임무 불러오기에 실패했습니다
+170	FreeSpace Demo	FreeSpace 데모
+171	FreeSpace	FreeSpace
+172	This version of Freespace has been compiled for\n\n	이 버전의 Freespace는 다음 용도로 컴파일되었습니다\n\n
+173	\n\nPress OK to continue.\n	\n\n계속하려면 확인을 누르십시오.\n
+174	DO NOT DISTRIBUTE!	배포 금지!
+175	This version of Freespace has been compiled for	이 버전의 Freespace는 다음 용도로 컴파일되었습니다
+176	Hit any key to continue.	계속하려면 아무 키나 누르십시오.
+177	Your fighter is running out of oil.  Please check under the\nhood and add more if necessary	전투기에 오일이 떨어지고 있습니다. 보닛 아래를 확인하고\n필요하면 더 넣어 주십시오
+178	Freespace is very tired.  It is shutting down to get some rest.	Freespace가 매우 피곤합니다. 휴식을 취하기 위해 종료합니다.
+179	Mission time remaining: %d seconds	남은 임무 시간: %d초
+180	Net bytes read: %d	네트워크 읽기 바이트: %d
+181	Net bytes written: %d	네트워크 쓰기 바이트: %d
+182	External view of player ship.	플레이어 함선의 외부 시점.
+183	View from inside player ship.	플레이어 함선 내부에서 본 시점.
+184	jump node	점프 노드
+185	Viewing %s%s\n	%s%s 보는 중\n
+186	from 	시점: 
+187	Viewing from observer\n	관전자 시점으로 보는 중\n
+188	Viewing from self\n	자신의 시점으로 보는 중\n
+189	Quick Start Mission	빠른 시작 임무
+190	Return To Flight Deck	비행 갑판으로 돌아가기
+191	Return To Briefing	브리핑으로 돌아가기
+192	You have died	사망했습니다
+193	FreeSpace has detected that you only have %dMB of free memory.\n\nFreeSpace requires at least 32MB of memory to run.  If you think you have more than %dMB of physical memory, ensure that you aren't running SmartDrive (SMARTDRV.EXE).  Any memory allocated to SmartDrive is not usable by applications\n\nPress 'OK' to continue running with less than the minimum required memory\n	FreeSpace에서 사용 가능한 메모리가 %dMB뿐인 것으로 감지되었습니다.\n\nFreeSpace를 실행하려면 최소 32MB의 메모리가 필요합니다. 실제 메모리가 %dMB보다 많다고 생각되면 SmartDrive(SMARTDRV.EXE)가 실행 중이 아닌지 확인하십시오. SmartDrive에 할당된 메모리는 응용 프로그램에서 사용할 수 없습니다\n\n최소 요구 메모리보다 적은 상태로 계속 실행하려면 '확인'을 누르십시오\n
+194	Not Enough RAM	RAM 부족
+195	FreeSpace has detected that you only have %dMB of free memory.\n\nFreeSpace requires at least 32MB of memory to run.  If you think you have more than %dMB of physical memory, ensure that you aren't running SmartDrive (SMARTDRV.EXE).  Any memory allocated to SmartDrive is not usable by applications\n	FreeSpace에서 사용 가능한 메모리가 %dMB뿐인 것으로 감지되었습니다.\n\nFreeSpace를 실행하려면 최소 32MB의 메모리가 필요합니다. 실제 메모리가 %dMB보다 많다고 생각되면 SmartDrive(SMARTDRV.EXE)가 실행 중이 아닌지 확인하십시오. SmartDrive에 할당된 메모리는 응용 프로그램에서 사용할 수 없습니다\n
+196	FreeSpace requires virtual memory to run.\r\n	FreeSpace를 실행하려면 가상 메모리가 필요합니다.\r\n
+197	No Virtual Memory	가상 메모리 없음
+198	Not enough memory to run Freespace.\r\nTry closing down some other applications.\r\n	Freespace를 실행할 메모리가 부족합니다.\r\n다른 응용 프로그램을 닫아 보십시오.\r\n
+199	Not Enough Memory	메모리 부족
+200	Sorry, this feature is available only in the retail version	죄송합니다. 이 기능은 정식 판매 버전에서만 사용할 수 있습니다
+201	%d:	%d:
+202	FreeSpace 2 CD not found\n\nInsert a FreeSpace 2 CD to continue	FreeSpace 2 CD를 찾을 수 없습니다\n\n계속하려면 FreeSpace 2 CD를 넣으십시오
+203	Movie not found\n\nInsert FreeSpace CD #%d to continue	영상을 찾을 수 없습니다\n\n계속하려면 FreeSpace CD #%d을(를) 넣으십시오
+204	Unable to play movie %s.	영상 %s을(를) 재생할 수 없습니다.
+205	Conflict!	충돌!
+206	Canceled	취소됨
+207	That is a non-bindable key.  Please try again.	지정할 수 없는 키입니다. 다시 시도하십시오.
+208	?	?
+209	Control conflicts with:	다음과 충돌:
+210	More...	더 보기...
+211	None	없음
+212	, 	, 
+213	Event music is not playing	이벤트 음악이 재생되고 있지 않습니다
+214	soundtrack: %s [%s]	사운드트랙: %s [%s]
+215	x%.1f	x%.1f
+216	x%.0f	x%.0f
+217	message	메시지
+218	damage	피해
+219	%d%%	%d%%
+220	Hull Integrity	선체 상태
+221	<none>	<없음>
+222	dead	파괴됨
+223	kills:	격추:
+224	support	지원함
+225	aborted	중단됨
+226	complete	완료
+227	repairing	수리 중
+228	rearming	재무장 중
+229	obstructed	방해받음
+230	warping in	워프 인 중
+231	busy	작업 중
+232	dock in:	도킹까지:
+233	subspace drive	서브스페이스 드라이브
+234	engaged	가동됨
+235	downloading new	새 명령을
+236	orders...	다운로드 중...
+237	primary objective	주 목표
+238	secondary objective	보조 목표
+239	bonus objective	보너스 목표
+240	failed (%d/%d)	실패 (%d/%d)
+241	complete (%d/%d)	완료 (%d/%d)
+242	failed	실패
+243	[voice denied]	[음성 거부됨]
+244	[recording voice]	[음성 녹음 중]
+245	[playing voice]	[음성 재생 중]
+246	2000 M	2000 M
+247	10,000 M	10,000 M
+248	infinity	무한대
+249	lead indicator	선도 표시기
+250	target orientation	대상 방향
+251	closest attacking hostile	가장 가까운 공격 중인 적
+252	current target direction	현재 대상 방향
+253	mission time	임무 시간
+254	reticle	조준선
+255	throttle	스로틀
+256	radar	레이더
+257	target monitor	대상 모니터
+258	center of reticle	조준선 중앙
+259	extra target info	추가 대상 정보
+260	target shield	대상 방어막
+261	player shield	플레이어 방어막
+262	power management	전력 관리
+263	auto-target icon	자동 타기팅 아이콘
+264	auto-speed-match icon	자동 속도 일치 아이콘
+265	weapons display	무기 표시
+266	monitoring view	모니터링 화면
+267	directives view	지시 사항 화면
+268	threat gauge	위협 게이지
+269	afterburner energy	애프터버너 에너지
+270	weapons energy	무기 에너지
+271	weapon linking	무기 연동
+272	target hull/shield icon	대상 선체/방어막 아이콘
+273	offscreen indicator	화면 밖 표시기
+274	comm video	통신 영상
+275	damage display	피해 표시
+276	message output	메시지 출력
+277	locked missile direction	고정된 미사일 방향
+278	countermeasures	대응 장치
+279	objective notify	목표 알림
+280	wingmen status	동료기 상태
+281	offscreen range	화면 밖 범위
+282	kills gauge	격추 게이지
+283	attacking target count	공격 중인 대상 수
+284	D	D
+285	monitoring	모니터링
+286	Escort view enabled	호위 화면 활성화됨
+287	Escort view disabled	호위 화면 비활성화됨
+288	Escort list is full with %d ships	호위 목록이 %d척으로 가득 찼습니다
+289	Current time	현재 시간
+292	0	0
+293	Ships	함선
+294	Wings	윙
+295	All Fighters	모든 전투기
+296	Reinforcements	증원군
+297	Rearm/Repair Subsys	재무장/서브시스템 수리
+298	Abort Rearm	재무장 중단
+299	Destroy my target	내 대상을 파괴하라
+300	Disable my target	내 대상을 무력화하라
+301	Disarm my target	내 대상을 무장 해제하라
+302	Destroy subsystem	서브시스템을 파괴하라
+303	Protect my target	내 대상을 보호하라
+304	Ignore my target	내 대상을 무시하라
+305	Form on my wing	내 윙에 합류하라
+306	Cover me	나를 엄호하라
+307	Engage enemy	적과 교전하라
+308	Capture my target	내 대상을 나포하라
+309	Rearm me	나를 재무장시켜라
+310	Abort rearm	재무장 중단
+311	Depart	이탈
+312	[pgup]	[pgup]
+313	[pgdn]	[pgdn]
+314	No valid items	유효한 항목 없음
+315	Not allowed to message	메시지를 보낼 수 없습니다
+316	Message What	메시지 대상
+317	Select Ship	함선 선택
+318	Select Wing	윙 선택
+319	Select Ship/Wing	함선/윙 선택
+320	(*)	(*)
+321	What Command	명령 선택
+322	No target selected.	선택된 대상이 없습니다.
+323	Targeting subsystem %s.	서브시스템 %s을(를) 타기팅 중입니다.
+324	Deactivating sub-system targeting	서브시스템 타기팅을 해제합니다
+325	Deactivating targeting system	타기팅 시스템을 해제합니다
+326	%d%%	%d%%
+327	cm.	대응 장치
+328	weapons	무기
+329	<none>	<없음>
+330	Targeting is disabled due to sensors damage	센서 손상으로 타기팅이 비활성화되었습니다
+331	Messaging is restricted due to communications damage	통신 손상으로 메시지 전송이 제한됩니다
+332	No support ships in area.  Use messaging to call one in.	주변에 지원함이 없습니다. 메시지로 호출하십시오.
+333	communication	통신
+334	comm	통신
+335	navigation	항법
+336	nav	항법
+337	no orders	명령 없음
+338	time to: 	남은 시간: 
+339	Docked: %s	도킹됨: %s
+340	d: %.0f	d: %.0f
+341	%d%%	%d%%
+342	DISABLED	비활성화
+343	DISRUPTED	교란됨
+344	dis	비활
+345	ok	정상
+346	dmg	손상
+347	crt	위험
+348	debris	잔해
+349	unknown	알 수 없음
+350	d: %.0f%s	d: %.0f%s
+351	s: %.0f%s	s: %.0f%s
+352	wingmen	동료기
+353	Exit FreeSpace 2	FreeSpace 2 종료
+354	Barracks - Manage your FreeSpace 2 pilots	병영 - FreeSpace 2 파일럿 관리
+355	Ready room - Start or continue a campaign	대기실 - 캠페인 시작 또는 이어하기
+356	Tech room - View specifications of FreeSpace 2 ships and weaponry	테크 룸 - FreeSpace 2 함선 및 무기 사양 보기
+357	Options - Change your FreeSpace 2 options	옵션 - FreeSpace 2 옵션 변경
+358	Campaign Room - View all available campaigns	캠페인 룸 - 모든 캠페인 보기
+359	Multiplayer - Start or join a multiplayer game	멀티플레이어 - 멀티플레이어 게임 시작 또는 참가
+360	You have not defined your type of Internet connection.  Please run the Launcher, hit the setup button, and go to the Network tab and choose your connection type.	인터넷 연결 유형이 지정되지 않았습니다. 런처를 실행하여 설정 버튼을 누르고 네트워크 탭에서 연결 유형을 선택하십시오.
+361	Winsock is not installed.  You must have TCP/IP and Winsock installed to play multiplayer FreeSpace.	Winsock이 설치되어 있지 않습니다. 멀티플레이어 FreeSpace를 플레이하려면 TCP/IP와 Winsock이 설치되어 있어야 합니다.
+362	You have selected TCP/IP for multiplayer Freespace, but the TCP/IP protocol was not detected on your machine.	멀티플레이어 Freespace에 TCP/IP를 선택하셨지만, 컴퓨터에서 TCP/IP 프로토콜이 감지되지 않았습니다.
+363	You have selected Dial Up Networking as your type of connection to the Internet.  You are not currently connected.  You must connect to your ISP before continuing on past this point.	인터넷 연결 유형으로 전화 접속 네트워킹을 선택하셨습니다. 현재 연결되어 있지 않습니다. 이 단계를 계속 진행하기 전에 ISP에 연결해야 합니다.
+364	You have indicated that you use a LAN for networking.  You also appear to be dialed into your ISP.  Please disconnect from your service provider, or choose 	네트워크로 LAN을 사용한다고 지정하셨습니다. 그런데 ISP에도 전화 접속된 것으로 보입니다. 서비스 제공업체와의 연결을 끊거나 다음을 선택하십시오 
+365	Exit Game?	게임을 종료하시겠습니까?
+366	Campaign Room not valid for multiplayer pilots	캠페인 룸은 멀티플레이어 파일럿에게 사용할 수 없습니다
+367	Not a valid multiplayer pilot!!	올바른 멀티플레이어 파일럿이 아닙니다!!
+368	Load Mission not valid for multiplayer pilots	임무 불러오기는 멀티플레이어 파일럿에게 사용할 수 없습니다
+369	Quick Start not valid for multiplayer pilots	빠른 시작은 멀티플레이어 파일럿에게 사용할 수 없습니다
+370	Skill level set to %s.	난이도가 %s(으)로 설정되었습니다.
+371	Press F1 for help	F1을 눌러 도움말 보기
+372	You can't change your skill level while in the middle of a mission.	임무 도중에는 난이도를 변경할 수 없습니다.
+373	You can't change your skill level here for multiplayer games.  Sklll level is set by the host of the game in the host options screen.	멀티플레이어 게임에서는 여기서 난이도를 변경할 수 없습니다. 난이도는 호스트 옵션 화면에서 게임 호스트가 설정합니다.
+374	Exit Game?	게임을 종료하시겠습니까?
+375	Cannot use HUD config when an observer!	관전자 상태에서는 HUD 설정을 사용할 수 없습니다!
+376	Single-Player Mode	싱글 플레이어 모드
+377	Multiplayer Mode	멀티플레이어 모드
+378	You must select a valid pilot first	먼저 올바른 파일럿을 선택해야 합니다
+379	You already have the maximum # of pilots!	파일럿 최대 수에 이미 도달했습니다!
+380	Error creating new pilot file!	새 파일럿 파일을 만드는 중 오류가 발생했습니다!
+381	Type Callsign and Press Enter	콜사인을 입력하고 Enter를 누르십시오
+382	Warning!\n\nAre you sure you wish to delete this pilot?	경고!\n\n이 파일럿을 정말 삭제하시겠습니까?
+383	Are you sure you want to delete this pilot?	이 파일럿을 정말 삭제하시겠습니까?
+384	Descent: FreeSpace - The Great War, Copyright %c 1998, Volition, Inc.	Descent: FreeSpace - The Great War, Copyright %c 1998, Volition, Inc.
+385	Copyright %c 1999, Volition, Inc.  All rights reserved.	Copyright %c 1999, Volition, Inc.  All rights reserved.
+386	Ip string is invalid!	IP 문자열이 올바르지 않습니다!
+387	Cancel	취소
+388	Verifying ip address	IP 주소 확인 중
+389	Max # of IP addresses reached!	IP 주소 최대 수에 도달했습니다!
+390	Error trying to playback recorded voice! Check your hardware	녹음된 음성을 재생하는 중 오류가 발생했습니다! 하드웨어를 확인하십시오
+391	Cannot test mic while in a multiplayer game!	멀티플레이어 게임 중에는 마이크를 테스트할 수 없습니다!
+392	DirectSoundCapture could not be initialized. To initialize DirectSoundCapture your sound card must be full duplex and your sound card drivers must support DirectSoundCapture	DirectSoundCapture를 초기화할 수 없습니다. DirectSoundCapture를 초기화하려면 사운드 카드가 전이중(full duplex)을 지원해야 하며 사운드 카드 드라이버가 DirectSoundCapture를 지원해야 합니다
+393	Packet Overflow	패킷 오버플로
+394	Stage %d of %d	%d / %d 단계
+395	Please review your objectives for this mission.	이번 임무의 목표를 확인하십시오.
+396	Primary	주 목표
+397	Secondary	보조 목표
+398	Bonus	보너스
+399	*Primary Objectives	*주 목표
+400	*Secondary Objectives	*보조 목표
+401	*Bonus Objectives	*보너스 목표
+402	Friendly ships	아군 함선
+403	Enemy ships	적 함선
+404	Destroyed	파괴됨
+405	  Kill: 	  격추: 
+406	Arrived	도착함
+407	Arrived (wave %d)	도착함 (%d번째 웨이브)
+408	Departed	이탈함
+409	docked with 	도킹함: 
+410	Subsystem 	서브시스템 
+411	 destroyed	 파괴됨
+412	Undocked with 	도킹 해제: 
+413	Disabled	무력화됨
+414	Disarmed	무장 해제됨
+415	 called for rearm	 재무장 요청함
+416	 aborted rearm	 재무장 중단함
+417	Called in as reinforcement	증원군으로 호출됨
+418	Cargo revealed: 	화물 확인됨: 
+419	%s objective 	%s 목표 
+420	satisfied.	달성.
+421	failed.	실패.
+422	directives	지시 사항
+423	Training failed	훈련 실패
+424	&Bind Control	조작 지정(&B)
+425	&Abort mission	임무 중단(&A)
+426	Warning\nYou have no control bound to the action '%s'.  You must do so before you can continue with your training.	경고\n'%s' 동작에 지정된 조작이 없습니다. 훈련을 계속하려면 먼저 지정해야 합니다.
+427	<%s was kicked>	<%s이(가) 추방되었습니다>
+428	Close	닫기
+429	Skip Training\n\n\n\nAre you sure you want to skip this training mission?	훈련 건너뛰기\n\n\n\n이 훈련 임무를 정말 건너뛰시겠습니까?
+430	No Briefing exists for mission: %s	임무의 브리핑이 없습니다: %s
+431	asteroid	소행성
+432	jump node	점프 노드
+433	unknown	알 수 없음
+434	 class	 급
+435	Medal	훈장
+436	Rank	계급
+437	Badge	배지
+438	(O)	(O)
+439	Your career is over, Traitor!  You can't accept new missions!	당신의 경력은 끝났다, 배신자! 새 임무를 받을 수 없다!
+440	You are a cheater.  You cannot accept this mission!	당신은 치터입니다. 이 임무를 수락할 수 없습니다!
+441	You have failed this mission and cannot accept.  What do you you wish to do instead?	이번 임무에 실패하여 수락할 수 없습니다. 대신 무엇을 하시겠습니까?
+442	Return to &Debriefing	디브리핑으로 돌아가기(&D)
+443	Go to &Flight Deck	비행 갑판으로 가기(&F)
+444	&Replay Mission	임무 다시 하기(&R)
+445	%d of %d	%d / %d
+446	Mission Time	임무 시간
+447	Mission Kills by Ship Type	함선 유형별 임무 격추 수
+448	All-time Kills by Ship Type	함선 유형별 전체 기간 격추 수
+449	(No ship kills this mission)	(이번 임무에서 격추한 함선 없음)
+450	(No ship kills)	(격추한 함선 없음)
+451	&Replay	다시 하기(&R)
+452	If you choose to replay this mission, you will be required to complete it again before proceeding to future missions.\n\nIn addition, any statistics gathered during this mission will be discarded if you choose to replay.	이 임무를 다시 하기로 하면 이후 임무로 넘어가기 전에 반드시 다시 완료해야 합니다.\n\n또한 다시 하기를 선택하면 이번 임무에서 수집된 모든 통계가 삭제됩니다.
+453	Your performance was excellent.  We have no recommendations for you.	훌륭한 성과였습니다. 드릴 권고 사항이 없습니다.
+454	&Yes	예(&Y)
+455	&No, retry later	아니오, 나중에 다시 시도(&N)
+456	Accept this mission outcome?	이번 임무 결과를 수락하시겠습니까?
+457	Because this mission was a failure, you must replay this mission when you continue your campaign.\n\nReturn to the Flight Deck?	이번 임무는 실패했으므로 캠페인을 계속할 때 이 임무를 다시 해야 합니다.\n\n비행 갑판으로 돌아가시겠습니까?
+458	No Debriefing for mission: %s	임무의 디브리핑이 없습니다: %s
+459	More	더 보기
+460	At least one ship must be selected before proceeding to weapons loadout	무기 장비 단계로 넘어가기 전에 최소 한 척의 함선을 선택해야 합니다
+461	Player ship has no weapons	플레이어 함선에 무기가 없습니다
+462	Player %s must select a place in player wing	플레이어 %s은(는) 플레이어 윙에서 자리를 선택해야 합니다
+464	Stage %d of %d	%d / %d 단계
+465	Too close to planet.  Taking damage!	행성에 너무 가깝습니다. 피해를 입고 있습니다!
+466	Warpout sequence aborted.	워프 아웃 절차가 중단되었습니다.
+467	2k	2k
+468	10k	10k
+469	Very Easy	매우 쉬움
+470	Easy	쉬움
+471	Medium	보통
+472	Hard	어려움
+473	Insane	광기
+474	attack 	공격: 
+475	dock 	도킹: 
+476	waypoints	웨이포인트
+477	destroy 	파괴: 
+478	form on 	편대 합류: 
+479	undock 	도킹 해제: 
+480	guard 	방어: 
+481	disable 	무력화: 
+482	disarm 	무장 해제: 
+483	evade 	회피: 
+484	rearm 	재무장: 
+485	No more countermeasure charges.	대응 장치 잔량이 없습니다.
+486	Detonated %s!	%s을(를) 폭파했습니다!
+487	Too far from target to acquire lock	락온하기에는 대상과 너무 멉니다
+488	Cannot fire %s without a lock	락온 없이는 %s을(를) 발사할 수 없습니다
+489	Cannot fire %s due to weapons system damage	무기 시스템 손상으로 %s을(를) 발사할 수 없습니다
+490	This ship has no primary weapons	이 함선에는 주 무기가 없습니다
+491	This ship has only one primary weapon: %s	이 함선에는 주 무기가 하나뿐입니다: %s
+492	This ship has no secondary weapons	이 함선에는 보조 무기가 없습니다
+493	This ship has only one secondary weapon: %s	이 함선에는 보조 무기가 하나뿐입니다: %s
+494	 Wing	 윙
+495	no orders	명령 없음
+496	atk %s %s	공격 %s %s
+497	Unknown	알 수 없음
+498	Subspace node activated	서브스페이스 노드가 활성화되었습니다
+499	Your %s subsystem has been destroyed	%s 서브시스템이 파괴되었습니다
+500	Conflict: FreeSpace - Darkness Rising, Copyright %c 1998, Volition, Inc.	Conflict: FreeSpace - Darkness Rising, Copyright %c 1998, Volition, Inc.
+501	Descent: FreeSpace - Darkness Rising, Copyright %c 1998, Volition, Inc.	Descent: FreeSpace - Darkness Rising, Copyright %c 1998, Volition, Inc.
+502	Conflict: FreeSpace - The Great War, Copyright %c 1998, Volition, Inc.	Conflict: FreeSpace - The Great War, Copyright %c 1998, Volition, Inc.
+507	Target Next Ship	다음 함선 타기팅
+508	Target Previous Ship	이전 함선 타기팅
+509	Target Next Closest Hostile Ship	가장 가까운 다음 적 함선 타기팅
+510	Target Previous Closest Hostile Ship	가장 가까운 이전 적 함선 타기팅
+511	Toggle Auto Targeting	자동 타기팅 전환
+512	Target Next Closest Friendly Ship	가장 가까운 다음 아군 함선 타기팅
+513	Target Previous Closest Friendly Ship	가장 가까운 이전 아군 함선 타기팅
+514	Target Ship in Reticle	조준선 안의 함선 타기팅
+515	Target Target's Nearest Attacker	대상에게 가장 가까운 공격자 타기팅
+516	Target Last Ship to Send Transmission	마지막으로 교신을 보낸 함선 타기팅
+517	Turn Off Auto-Targeting	자동 타기팅 끄기
+518	Target Subsystem in Reticle	조준선 안의 서브시스템 타기팅
+519	Target Next Subsystem	다음 서브시스템 타기팅
+520	Target Previous Subsystem	이전 서브시스템 타기팅
+521	Turn Off Auto-Targeting of Subsystems	서브시스템 자동 타기팅 끄기
+522	Match Target Speed	대상 속도에 맞추기
+523	Toggle Auto Speed Matching	자동 속도 일치 전환
+524	Fire Primary Weapon	주 무기 발사
+525	Fire Secondary Weapon	보조 무기 발사
+526	Cycle Forward Primary Weapon	주 무기 순방향 전환
+527	Cycle Backward Primary Weapon	주 무기 역방향 전환
+528	Cycle Secondary Weapon Bank	보조 무기 뱅크 전환
+529	Cycle Secondary Weapon Firing Rate	보조 무기 발사 속도 전환
+530	Launch Countermeasure	대응 장치 발사
+531	Forward Thrust	전진 추력
+532	Reverse Thrust	후진 추력
+533	Bank Left	좌측 뱅크
+534	Bank Right	우측 뱅크
+535	Pitch Forward	피치 앞으로
+536	Pitch Backward	피치 뒤로
+537	Turn Left	좌회전
+538	Turn Right	우회전
+539	Set Throttle to Zero	스로틀 0으로 설정
+540	Set Throttle to Max	스로틀 최대로 설정
+541	Set Throttle to One-Third	스로틀 3분의 1로 설정
+542	Set Throttle to Two-Thirds	스로틀 3분의 2로 설정
+543	Increase Throttle 5 Percent	스로틀 5퍼센트 증가
+544	Decrease Throttle 5 Percent	스로틀 5퍼센트 감소
+545	Attack My Target	내 대상을 공격하라
+546	Disarm My Target	내 대상을 무장 해제하라
+547	Disable My Target	내 대상을 무력화하라
+548	Attack my Subsystem	내 서브시스템을 공격하라
+549	Capture My Target	내 대상을 나포하라
+550	Engage Enemy	적과 교전하라
+551	Form on my Wing	내 윙에 합류하라
+552	Ignore my Target	내 대상을 무시하라
+553	Protect my Target	내 대상을 보호하라
+554	Cover me	나를 엄호하라
+555	Return to base	기지로 귀환하라
+556	Rearm me	나를 재무장시켜라
+557	Target Closest Attacking Ship	가장 가까운 공격 함선 타기팅
+558	Chase View	추적 시점
+559	External View	외부 시점
+560	Toggle External Camera Lock	외부 카메라 고정 전환
+561	Free Look View	자유 시점
+562	Current Target View	현재 대상 시점
+563	Increase View Distance	시점 거리 늘리기
+564	Decrease View Distance	시점 거리 줄이기
+565	Center View	시점 중앙 정렬
+566	View Up	위쪽 보기
+567	View Rear	뒤쪽 보기
+568	View Left	왼쪽 보기
+569	View Right	오른쪽 보기
+570	Cycle Radar Range	레이더 범위 전환
+571	Communications Menu	통신 메뉴
+572	Show Objectives	목표 보기
+573	Enter Subspace (End Mission)	서브스페이스 진입 (임무 종료)
+574	Target Target's Target	대상의 대상 타기팅
+575	Afterburner	애프터버너
+576	Increase Weapon Energy	무기 에너지 증가
+577	Decrease Weapon Energy	무기 에너지 감소
+578	Increase Shield Energy	방어막 에너지 증가
+579	Decrease Shield Energy	방어막 에너지 감소
+580	Increase Engine Energy	엔진 에너지 증가
+581	Decrease Engine Energy	엔진 에너지 감소
+582	Equalize Energy Settings	에너지 설정 균등화
+583	Equalize Shield	방어막 균등화
+584	Augment Forward Shield	전방 방어막 강화
+585	Augment Rear Shield	후방 방어막 강화
+586	Augment Left Shield	좌측 방어막 강화
+587	Augment Right Shield	우측 방어막 강화
+588	Transfer Energy Laser->Shield	에너지 전환 레이저->방어막
+589	Transfer Energy Shield->Laser	에너지 전환 방어막->레이저
+590	Show Damage Popup Window	피해 팝업 창 표시
+591	Bank When Pressed	누르는 동안 뱅크
+592	Show NavMap	항법 지도 표시
+593	Add or Remove Escort	호위 대상 추가 또는 제거
+594	Clear Escort List	호위 목록 비우기
+595	Target Next Escort Ship	다음 호위 함선 타기팅
+596	Target Closest Repair Ship	가장 가까운 수리함 타기팅
+597	Target Next Uninspected Cargo	다음 미검사 화물 타기팅
+598	Target Previous Uninspected Cargo	이전 미검사 화물 타기팅
+599	Target Newest Ship In Area	주변의 가장 새로운 함선 타기팅
+600	Target Next Live Turret	다음 작동 중인 터렛 타기팅
+601	Target Previous Live Turret	이전 작동 중인 터렛 타기팅
+602	Target Next Hostile Bomb or Bomber	다음 적 폭탄 또는 폭격기 타기팅
+603	Target Previous Hostile Bomb or Bomber	이전 적 폭탄 또는 폭격기 타기팅
+604	(Multiplayer) Message All	(멀티플레이어) 전체에게 메시지
+605	(Multiplayer) Message Friendly	(멀티플레이어) 아군에게 메시지
+606	(Multiplayer) Message Hostile	(멀티플레이어) 적에게 메시지
+607	(Multiplayer) Message Target	(멀티플레이어) 대상에게 메시지
+608	(Multiplayer) Observer zoom to target	(멀티플레이어) 관전자 대상 확대
+609	Increase time compression	시간 압축 증가
+610	Decrease time compression	시간 압축 감소
+611	Toggle high HUD contrast	높은 HUD 대비 전환
+612	(Multiplayer) Toggle network info	(멀티플레이어) 네트워크 정보 전환
+613	(Multiplayer) Self destruct	(멀티플레이어) 자폭
+620	Alpha channel textures	알파 채널 텍스처
+621	Missing Features	누락된 기능
+622	16-bpp RGB textures	16bpp RGB 텍스처
+623	Your video card is missing the following features required by FreeSpace:\r\n\r\n	그래픽 카드에 FreeSpace에 필요한 다음 기능이 없습니다:\r\n\r\n
+624	Texture blending mode = Modulate\r\n	텍스처 블렌딩 모드 = Modulate\r\n
+625	Source blending mode = SRCALPHA or BOTHSRCALPHA\r\n	소스 블렌딩 모드 = SRCALPHA 또는 BOTHSRCALPHA\r\n
+626	Destination blending mode = INVSRCALPHA or BOTHINVSRCALPHA\r\n	대상 블렌딩 모드 = INVSRCALPHA 또는 BOTHINVSRCALPHA\r\n
+627	At least 1 MB of available video memory required.	사용 가능한 비디오 메모리가 최소 1MB 필요합니다.
+628	> 1 sec	> 1초
+629	%d ms	%d ms
+630	K: 	격추: 
+631	A: 	지원: 
+632	Jump Node %d	점프 노드 %d
+633	A %s is unable to carry %s weaponry	%s은(는) %s 무기를 장착할 수 없습니다
+634	Unrecognized command	알 수 없는 명령입니다
+635	** CTCP Message from %s (%s)	** %s(%s)의 CTCP 메시지
+636	** %s has joined %s	** %s이(가) %s에 입장했습니다
+637	*** %s has kicked %s from channel %s (%s)	*** %s이(가) %s을(를) 채널 %s에서 추방했습니다 (%s)
+638	*** %s is now known as %s	*** %s의 새 닉네임: %s
+639	**Error: %s is not online!	**오류: %s은(는) 온라인이 아닙니다!
+640	Your nickname contains invalid characters	닉네임에 사용할 수 없는 문자가 포함되어 있습니다
+641	Cancel	취소
+642	Contact lost with server.  Stopping simulation until contact reestablished.  Press Cancel to exit game.	서버와의 연결이 끊어졌습니다. 연결이 복구될 때까지 시뮬레이션을 중지합니다. 게임을 종료하려면 취소를 누르십시오.
+643	The Campaign Is Complete. Thank You For Playing	캠페인이 완료되었습니다. 플레이해 주셔서 감사합니다
+644	Campaign ship/weapon pool\n	캠페인 함선/무기 풀\n
+645	&Cancel	취소(&C)
+646	Waiting for clients to disconnect	클라이언트 연결 해제를 기다리는 중
+647	Warning - quitting will end the game for all players!	경고 - 종료하면 모든 플레이어의 게임이 종료됩니다!
+648	Are you sure you want to quit?	정말 종료하시겠습니까?
+649	<Team captains have left>	<팀장이 떠났습니다>
+650	<The server has ended the game>	<서버가 게임을 종료했습니다>
+651	You have been kicked	추방되었습니다
+652	The server has left the game	서버가 게임을 떠났습니다
+653	Your mission file has been rejected by the server	임무 파일이 서버에서 거부되었습니다
+654	The game has ended while you were ingame joining	게임 중 참가하는 동안 게임이 종료되었습니다
+655	You have waited too long to select a ship	함선을 선택하는 데 너무 오래 걸렸습니다
+656	Contact with server has been lost	서버와의 연결이 끊어졌습니다
+657	Failed to connect to server on reliable socket	안정 소켓으로 서버에 연결하지 못했습니다
+658	Failed to load mission file properly	임무 파일을 제대로 불러오지 못했습니다
+659	Unable to create ingame join player ship	게임 중 참가용 플레이어 함선을 만들 수 없습니다
+660	Recevied bogus packet data while ingame joining	게임 중 참가하는 동안 잘못된 패킷 데이터를 받았습니다
+661	Server transfer failed (obsolete)	서버 이전에 실패했습니다 (사용 중지됨)
+662	Server encountered errors trying to assign players to ships	서버가 플레이어를 함선에 배정하는 중 오류가 발생했습니다
+663	Host has left the game, aborting...	호스트가 게임을 떠났습니다. 중단합니다...
+664	Team captain(s) have left the game, aborting...	팀장이 게임을 떠났습니다. 중단합니다...
+665	There was an error receiving the mission file!	임무 파일을 수신하는 중 오류가 발생했습니다!
+666	Warning, Parallax Online startup failed. Will not be able to play tracker games!	경고, Parallax Online 시작에 실패했습니다. 트래커 게임을 플레이할 수 없습니다!
+667	&Cancel	취소(&C)
+668	Attempting to validate pilot ...	파일럿 인증을 시도하는 중 ...
+669	&Ok	확인(&O)
+670	Pilot rejected by Parallax Online!	Parallax Online에서 파일럿이 거부되었습니다!
+671	Successfully created and validated new pilot!	새 파일럿을 성공적으로 만들고 인증했습니다!
+672	Parallax Online pilot validation succeeded!	Parallax Online 파일럿 인증에 성공했습니다!
+673	&Abort	중단(&A)
+674	&Retry	다시 시도(&R)
+675	Validation timed out	인증 시간이 초과되었습니다
+676	Sending player stats requests ...	플레이어 통계 요청을 보내는 중 ...
+677	Parallax Online stats store succeeded!	Parallax Online 통계 저장에 성공했습니다!
+678	Parallax Online stats store failed!	Parallax Online 통계 저장에 실패했습니다!
+679	Attempting to get pilot stats ...	파일럿 통계를 가져오는 중 ...
+680	Getting player stats for %s...\n	%s의 플레이어 통계를 가져오는 중...\n
+681	Updating player stats for %s...\n	%s의 플레이어 통계를 업데이트하는 중...\n
+682	Time remaining : %d s\n	남은 시간 : %d초\n
+683	Ships packet ack (ingame)\n	함선 패킷 응답 (게임 중)\n
+684	Wings packet (ingame)\n	윙 패킷 (게임 중)\n
+685	Respawn points packet (ingame)\n	재출격 지점 패킷 (게임 중)\n
+686	You have been denied the requested ship	요청한 함선이 거부되었습니다
+687	<%s was kicked>	<%s이(가) 추방되었습니다>
+688	Observer Ship	관전자 함선
+689	Invalid Image	잘못된 이미지
+690	Waiting	대기 중
+691	Image Transferring	이미지 전송 중
+692	No Image	이미지 없음
+693	No missions flown	비행한 임무 없음
+694	ALL : 	전체 : 
+695	FRIENDLY : 	아군 : 
+696	HOSTILE : 	적 : 
+697	TARGET : 	대상 : 
+698	<SERVER>	<서버>
+699	ORDER FROM <%s> : 	<%s>의 명령 : 
+700	Attack %s	%s 공격
+701	Disable %s	%s 무력화
+702	Protect %s	%s 보호
+703	Ignore %s	%s 무시
+704	Disarm %s	%s 무장 해제
+705	Disable subsystem %s on %s	%s의 서브시스템 %s 무력화
+706	Form on my wing	내 윙에 합류하라
+707	Cover me	나를 엄호하라
+708	Engage enemy!	적과 교전하라!
+709	Server transfer	서버 이전
+710	\'s game	\'s 게임
+711	Server Transfer Complete!	서버 이전이 완료되었습니다!
+712	<%s is speaking>	<%s이(가) 말하는 중>
+713	&Ok	확인(&O)
+714	An outdated copy of this file exists, but it cannot be overwritten by the server because it is set to be read-only. Change the permissions on this file next time.	이 파일의 오래된 사본이 있지만 읽기 전용으로 설정되어 있어 서버에서 덮어쓸 수 없습니다. 다음에는 이 파일의 권한을 변경하십시오.
+715	Player %s has tried to join, accept y/n ?	플레이어 %s이(가) 참가를 시도했습니다. 수락하시겠습니까? y/n
+716	%s has entered the game\n	%s이(가) 게임에 입장했습니다\n
+717	<%s has joined>	<%s이(가) 참가했습니다>
+718	<%s was kicked>	<%s이(가) 추방되었습니다>
+719	%s has left the game	%s이(가) 게임을 떠났습니다
+720	Received mission start\n	임무 시작을 수신했습니다\n
+721	Received player settings packet\n	플레이어 설정 패킷을 수신했습니다\n
+722	You have been rejected because the game is not in an appropriate state to accept	게임이 참가를 받을 수 있는 상태가 아니어서 거부되었습니다
+723	You have been rejected because this is a Parallax Online game and you are not a registered Parallax Online pilot	이 게임은 Parallax Online 게임이며 등록된 Parallax Online 파일럿이 아니어서 거부되었습니다
+724	You have been rejected because this is a password protected game	이 게임은 비밀번호로 보호되어 있어 거부되었습니다
+725	You have been rejected because this is a closed game and the mission is in progress	이 게임은 비공개 게임이고 임무가 진행 중이어서 거부되었습니다
+726	You have been rejected because the netgame is forming and the host has temporarily closed it	넷게임을 구성하는 중이며 호스트가 일시적으로 닫아 두어 거부되었습니다
+727	You have been rejected because this is a rank limited game and your rank is too high	이 게임은 계급 제한 게임이고 당신의 계급이 너무 높아 거부되었습니다
+728	You have been rejected because this is a rank limited game and your rank is too low	이 게임은 계급 제한 게임이고 당신의 계급이 너무 낮아 거부되었습니다
+729	You have been rejected because there is an identical player already in the game	이미 같은 플레이어가 게임에 있어 거부되었습니다
+730	You have been rejected because the game is full	게임이 가득 차서 거부되었습니다
+731	You have been rejected because you are banned from this server	이 서버에서 차단되어 거부되었습니다
+732	You have been rejected because this game does not allow observers	이 게임은 관전자를 허용하지 않아 거부되었습니다
+733	You cannot join at this time since someone else is currently joining.  Try again shortly.	지금은 다른 사람이 참가 중이므로 참가할 수 없습니다. 잠시 후 다시 시도하십시오.
+734	You cannot join this game because you are running an older version of FreeSpace than the server.  Exit FreeSpace, and choose the 'Update FreeSpace' button in the FreeSpace launcher to download the latest version of FreeSpace.	서버보다 오래된 버전의 FreeSpace를 실행 중이어서 이 게임에 참가할 수 없습니다. FreeSpace를 종료하고 FreeSpace 런처에서 'FreeSpace 업데이트' 버튼을 눌러 최신 버전을 내려받으십시오.
+735	Weapon slots packet\n	무기 슬롯 패킷\n
+736	Player %s has tried to join - allow (y/n) ?	플레이어 %s이(가) 참가를 시도했습니다 - 허용하시겠습니까 (y/n) ?
+737	C	장
+738	AI	AI
+739	Class	분류
+740	Type	유형
+741	Length	길이
+742	Max Velocity	최대 속도
+743	%d m/s	%d m/s
+744	Maneuverability	기동성
+745	Armor	장갑
+746	Gun Mounts	건 마운트
+747	Missile Banks	미사일 뱅크
+748	Manufacturer	제조사
+749	Ships/Weapons Locked	함선/무기 고정됨
+750	Ships/Weapons Are Now Free	함선/무기 고정 해제됨
+751	Players have not yet been assigned to their ships	플레이어가 아직 함선에 배정되지 않았습니다
+752	You have not yet assigned all necessary ships	필요한 모든 함선이 아직 배정되지 않았습니다
+753	There are ships without primary weapons!	주 무기가 없는 함선이 있습니다!
+754	There are ships without secondary weapons!	보조 무기가 없는 함선이 있습니다!
+755	more	더 보기
+756	Network Error.  Try exiting and restarting FreeSpace to clear the error.  Otherwise, please reboot your machine.	네트워크 오류. FreeSpace를 종료했다가 다시 시작하여 오류를 해결해 보십시오. 그래도 안 되면 컴퓨터를 재부팅하십시오.
+757	No games found!	게임을 찾을 수 없습니다!
+758	No game selected!	선택된 게임이 없습니다!
+759	Still waiting on previous join request!	이전 참가 요청의 응답을 아직 기다리는 중입니다!
+760	Not implemented yet!	아직 구현되지 않았습니다!
+761	> 1 sec	> 1초
+762	 ms	 ms
+763	<No game servers found>	<게임 서버를 찾을 수 없음>
+764	Forming	구성 중
+765	Briefing	브리핑
+766	Debrief	디브리핑
+767	Paused	일시정지됨
+768	Playing	플레이 중
+769	Unknown	알 수 없음
+770	Accepted.  Waiting for player data.	수락되었습니다. 플레이어 데이터를 기다리는 중.
+771	Join request timed out!	참가 요청 시간이 초과되었습니다!
+772	Joining ingame is currently not allowed for team vs. team games	팀 대 팀 게임에서는 게임 중 참가가 현재 허용되지 않습니다
+773	Sending join request...	참가 요청을 보내는 중...
+774	Servers on Channel: %s	채널의 서버: %s
+775	Warning - You have low object updates selected. A server with low object updates will not be able to handle more than 1 client without performance problems	경고 - 낮은 객체 업데이트가 선택되어 있습니다. 낮은 객체 업데이트 서버는 성능 문제 없이 클라이언트를 1명 넘게 처리할 수 없습니다
+776	Low update level caps all bandwidth at ~2000 bytes/second. It is appropriate for clients with 28.8 modems, but is not reccomended for servers. In addition, any clients connecting to this server should use low object updates as well. To change your settings go to the options menu (f2), and select the Multi button	낮은 업데이트 수준은 전체 대역폭을 초당 약 2000바이트로 제한합니다. 28.8 모뎀을 쓰는 클라이언트에는 적합하지만 서버에는 권장되지 않습니다. 또한 이 서버에 접속하는 모든 클라이언트도 낮은 객체 업데이트를 사용해야 합니다. 설정을 바꾸려면 옵션 메뉴(F2)에서 멀티 버튼을 선택하십시오
+777	Warning - You have medium object updates selected. A server with medium object updates will not be able to handle more than 1 or 2 clients without performance problems	경고 - 중간 객체 업데이트가 선택되어 있습니다. 중간 객체 업데이트 서버는 성능 문제 없이 클라이언트를 1~2명 넘게 처리할 수 없습니다
+778	Medium update level caps all bandwidth at ~4000 bytes/second. It is appropriate for clients with 56.6 modems, but is not reccomended for servers. In addition, any clients connecting to this server should use low object updates as well. To change your settings go to the options menu (f2), and select the Multi button	중간 업데이트 수준은 전체 대역폭을 초당 약 4000바이트로 제한합니다. 56.6 모뎀을 쓰는 클라이언트에는 적합하지만 서버에는 권장되지 않습니다. 또한 이 서버에 접속하는 모든 클라이언트도 낮은 객체 업데이트를 사용해야 합니다. 설정을 바꾸려면 옵션 메뉴(F2)에서 멀티 버튼을 선택하십시오
+779	&Cancel	취소(&C)
+780	&Continue	계속(&C)
+781	&More info	자세히(&M)
+782	%s game	%s의 게임
+783	Temporary name	임시 이름
+784	Illegal value for a host of your rank (%s)\n	이 계급의 호스트에게는 허용되지 않는 값입니다 (%s)\n
+785	lieutenant	중위
+786	Lt. 	중위 
+787	(O)	(O)
+788	Please wait until all clients have finished joining	모든 클라이언트의 참가가 끝날 때까지 기다리십시오
+789	No mission selected!	선택된 임무가 없습니다!
+790	No campaign selected!	선택된 캠페인이 없습니다!
+791	There are too many observers in the game\n\nMax : %d\nCurrently %d\n\nPlease dump a few	게임에 관전자가 너무 많습니다\n\n최대 : %d\n현재 %d\n\n몇 명을 내보내십시오
+792	There are too many players in the game\n\nMax : %d\nCurrently %d\n\nPlease dump a few	게임에 플레이어가 너무 많습니다\n\n최대 : %d\n현재 %d\n\n몇 명을 내보내십시오
+793	Teams and/or team captains are not assigned properly	팀 및/또는 팀장이 제대로 배정되지 않았습니다
+794	You need 1 CD for every 4 players!	플레이어 4명당 CD가 1장 필요합니다!
+795	NA	해당 없음
+796	Warning\nRespawn count in greater than mission specified max (%d)	경고\n재출격 횟수가 임무에서 지정한 최대값(%d)보다 큽니다
+797	Warning\nMission time limit is greater than max allowed (%d)	경고\n임무 시간 제한이 허용 최대값(%d)보다 큽니다
+798	Warning\nObserver count is greater than max allowed (%d)	경고\n관전자 수가 허용 최대값(%d)보다 많습니다
+799	Warning\nMission kill limit is greater than max allowed (%d)	경고\n임무 격추 제한이 허용 최대값(%d)보다 큽니다
+800	Warning\nvoice wait time is greater than max allowed (%d)	경고\n음성 대기 시간이 허용 최대값(%d)보다 큽니다
+801	Launch	출격
+802	Mission Loading	임무 불러오는 중
+803	Ingame Ship Select	게임 중 함선 선택
+804	Debriefing	디브리핑
+805	Mission Sync	임무 동기화
+806	Joining	참가 중
+807	Joined	참가함
+808	Slot Ack	슬롯 응답
+809	Ship Select	함선 선택
+810	Weapon Select	무기 선택
+811	Waiting	대기 중
+812	In Mission	임무 중
+813	Mission Loaded	임무 불러옴
+814	Data loading	데이터 불러오는 중
+815	Ready To Enter Mission	임무 진입 준비 완료
+816	Ingame Ships Packet Ack	게임 중 함선 패킷 응답
+817	Ingame Wings Packet Ack	게임 중 윙 패킷 응답
+818	Ingame Respawn Points Ack	게임 중 재출격 지점 응답
+819	Ingame Weapon Slots Ack	게임 중 무기 슬롯 응답
+820	Post Briefing Data Block Ack	브리핑 후 데이터 블록 응답
+821	Flags Ack	플래그 응답
+822	Parallax Online Stats Updating	Parallax Online 통계 업데이트 중
+823	Weapon Slots Ack	무기 슬롯 응답
+824	Host setup	호스트 설정
+825	Debrief accept	디브리핑 수락
+826	Debrief replay	디브리핑 다시 하기
+827	Campaign ship/weapon ack	캠페인 함선/무기 응답
+828	Mission file xfer %d%%	임무 파일 전송 %d%%
+829	Mission file xfer	임무 파일 전송
+830	Server performing sync\n	서버가 동기화를 수행하는 중\n
+831	Send update packet\n	업데이트 패킷 전송\n
+832	Got file signatures\n	파일 서명을 받았습니다\n
+833	Sending update state packet\n	업데이트 상태 패킷 전송 중\n
+834	Sent filesig request\n	파일 서명 요청을 보냈습니다\n
+835	Sent load packet\n	로드 패킷을 보냈습니다\n
+836	Loaded mission locally\n	임무를 로컬에서 불러왔습니다\n
+837	Moving to team select\n	팀 선택으로 이동 중\n
+838	Client performing sync\n	클라이언트가 동기화를 수행하는 중\n
+839	Sending post briefing block information\n	브리핑 후 블록 정보 전송 중\n
+840	Sending weapon slots information\n	무기 슬롯 정보 전송 중\n
+841	Sending player settings packets\n	플레이어 설정 패킷 전송 중\n
+842	Moving into game\n	게임으로 이동 중\n
+843	Sending mission start packet\n	임무 시작 패킷 전송 중\n
+844	&Accept	수락(&A)
+845	&Toss	폐기(&T)
+846	(Continue Netgame)\nDo you wish to accept these stats?	(넷게임 계속)\n이 통계를 수락하시겠습니까?
+847	(Exit Netgame)\nDo you wish to accept these stats?	(넷게임 종료)\n이 통계를 수락하시겠습니까?
+848	&Leave	나가기(&L)
+849	Are you sure you want to leave the netgame before stats are stored?	통계가 저장되기 전에 넷게임을 정말 나가시겠습니까?
+850	<stats have been accepted>	<통계가 수락되었습니다>
+851	<stats have been tossed>	<통계가 폐기되었습니다>
+852	no other network players are present	다른 네트워크 플레이어가 없습니다
+853	zapped	지져졌다
+854	caulked	틀어막혔다
+855	killed	격추당했다
+856	waxed	왁스칠당했다
+857	popped	펑 터졌다
+858	murdered	살해당했다
+859	bludgeoned	몽둥이질을 당했다
+860	destroyed	파괴당했다
+861	iced	얼려졌다
+862	obliterated	흔적도 없이 사라졌다
+863	toasted	토스트가 되었다
+864	roasted	구워졌다
+865	turned into anti-matter	반물질로 변했다
+866	killed like a pig	돼지처럼 도살당했다
+867	taught a lesson	따끔한 교훈을 얻었다
+868	slaughtered with impunity	거침없이 학살당했다
+869	spanked like a naughty boy	말썽꾸러기처럼 엉덩이를 맞았다
+870	skunked	완패를 당했다
+871	beat senseless	정신을 못 차릴 만큼 두들겨 맞았다
+872	shot up	벌집이 되었다
+873	spaced	우주 미아가 되었다
+874	hosed	호스로 씻겨 나갔다
+875	capped	한 방에 보내졌다
+876	beat down	흠씬 두들겨 맞았다
+877	hit wit da shizzo	제대로 한 방 먹었다
+878	sk00led	학교 수업을 받았다
+879	whooped up	흠씬 얻어맞았다
+880	brought to the all-you-can-take whoop ass buffet	무한 리필 응징 뷔페에 초대되었다
+881	served up a whoop ass sandwich...hold the mercy	자비 없는 응징 샌드위치를 대접받았다
+882	gibbed by Kayser Sozay's rocket	카이저 소자이의 로켓에 산산조각이 났다
+883	shot down	격추당했다
+884	given early retirement	조기 퇴직을 당했다
+885	instructed	가르침을 받았다
+886	eviscerated	내장이 드러났다
+887	pummelled	두들겨 맞았다
+888	eradicated	근절되었다
+889	cleansed	깨끗이 정화되었다
+890	perforated	구멍투성이가 되었다
+891	canned	통조림이 되었다
+892	decompressed	감압되었다
+893	says	말한다
+894	bleats	메에 하고 운다
+895	opines	의견을 낸다
+896	postulates	가정한다
+897	declares	선언한다
+898	vomits out	토해낸다
+899	whines	징징댄다
+900	barks	짖는다
+901	<%s has left>	<%s이(가) 떠났습니다>
+902	Dumping %s after prolonged inactivity	장시간 활동이 없어 %s을(를) 내보냅니다
+903	[ipx address here]	[여기에 IPX 주소]
+904	Standalone Ship	독립 실행형 함선
+905	Stats collected for %7.3f seconds\n	%7.3f초 동안 통계를 수집했습니다\n
+906	Callsign\tBytes read/s\tBytes written/s\n	콜사인\t초당 읽은 바이트\t초당 쓴 바이트\n
+907	Couldn't find network stats for %s ... skipping\n	%s의 네트워크 통계를 찾을 수 없습니다 ... 건너뜁니다\n
+908	-------------------------\nTotal:\t%d\t%d\n	-------------------------\n합계:\t%d\t%d\n
+909	\n\nPer Packet Statistics\n---------------\nPacket #\tNum Packets Sent\tTotal Bytes\t%% of total\n	\n\n패킷별 통계\n---------------\n패킷 번호\t전송한 패킷 수\t총 바이트\t전체 대비 %%\n
+910	[no networking]	[네트워킹 없음]
+911	# Connections : 	# 연결 : 
+912	Host connected ? Yes	호스트 연결됨 ? 예
+913	Host connected ? No	호스트 연결됨 ? 아니오
+914	> 1 sec	> 1초
+915	 ms	 ms
+916	Standalone Server	독립 실행형 서버
+917	Primary Objectives	주 목표
+918	Secondary Objectives	보조 목표
+919	Bonus Objectives	보너스 목표
+920	none	없음
+921	Tree View	트리 보기
+922	The standalone server has failed to log in to Parallax Online!	독립 실행형 서버가 Parallax Online에 로그인하지 못했습니다!
+923	VMT Warning!	VMT 경고!
+924	<SERVER> %s	<서버> %s
+925	ok	확인
+926	cancel	취소
+927	&apply	적용(&A)
+928	Help	도움말
+929	Shutdown	종료
+930	Connections	연결
+931	Multi-Player	멀티플레이어
+932	Player info	플레이어 정보
+933	God Stuff	신 기능
+934	Debug	디버그
+935	Freespace Standalone	Freespace 독립 실행형
+936	&Create Acct	계정 만들기(&C)
+937	&Verify Acct	계정 확인(&V)
+938	PXO Login not accepted.  You may visit the Parallax Online website to create or verify your login.  Or you may click Cancel to play without using the Parallax Online service.  (You may switch back to Parallax Online from the Options Menu under the Multi tab.)	PXO 로그인이 수락되지 않았습니다. Parallax Online 웹사이트에서 로그인을 만들거나 확인할 수 있습니다. 또는 취소를 눌러 Parallax Online 서비스 없이 플레이할 수 있습니다. (옵션 메뉴의 멀티 탭에서 다시 Parallax Online으로 전환할 수 있습니다.)
+939	Retrieving Public Channels	공개 채널을 가져오는 중
+940	Failed to connect to Parallax Online	Parallax Online에 연결하지 못했습니다
+941	You have been kicked	추방되었습니다
+942	You have been disconnected from the server	서버와의 연결이 끊어졌습니다
+943	Warning\nCould not locate/launch default Internet Browser	경고\n기본 인터넷 브라우저를 찾거나 실행할 수 없습니다
+944	No channels!	채널이 없습니다!
+945	Already trying to join a channel!	이미 채널에 참가를 시도하는 중입니다!
+946	Could not get stats for %s\n(May not be a registered pilot)	%s의 통계를 가져올 수 없습니다\n(등록된 파일럿이 아닐 수 있습니다)
+947	Failed to connect to Parallax Online!	Parallax Online에 연결하지 못했습니다!
+948	Cancel	취소
+949	Logging into Parallax Online	Parallax Online에 로그인하는 중
+950	*** %s has left	*** %s이(가) 떠났습니다
+951	Connected to Parallax Online	Parallax Online에 연결되었습니다
+952	Refreshing Public Channel List	공개 채널 목록을 새로 고치는 중
+953	Switching channels	채널 전환 중
+954	No channel (error while switching)	채널 없음 (전환 중 오류)
+955	%s on %s	%s - %s
+956	Parallax Online - No Channel	Parallax Online - 채널 없음
+957	private message from 	개인 메시지 보낸 사람: 
+958	private_message_from 	private_message_from 
+959	private message to 	개인 메시지 받는 사람: 
+960	private_message_to 	private_message_to 
+961	Type the name of the channel to join/create	참가하거나 만들 채널의 이름을 입력하십시오
+962	Enter user to be found	찾을 사용자를 입력하십시오
+963	Searching for %s	%s을(를) 검색하는 중
+964	User not found	사용자를 찾을 수 없습니다
+965	Player is logged in but is not on a channel	플레이어가 로그인했지만 채널에 있지 않습니다
+966	Found %s on :	%s을(를) 다음에서 찾았습니다 :
+967	Found %s on a private channel	%s을(를) 비공개 채널에서 찾았습니다
+968	Getting player stats	플레이어 통계를 가져오는 중
+969	Retrieving player tracker id	플레이어 트래커 ID를 가져오는 중
+970	No missions flown	비행한 임무 없음
+971	DirectSound could not be initialized.  If you are running any applications playing sound in the background, you should stop them before continuing.	DirectSound를 초기화할 수 없습니다. 백그라운드에서 소리를 재생하는 응용 프로그램이 실행 중이면 계속하기 전에 종료하십시오.
+972	Could not properly initialize the Microsoft ADPCM codec.\n\nPlease see the readme.txt file for detailed instructions on installing the Microsoft ADPCM codec.	Microsoft ADPCM 코덱을 제대로 초기화할 수 없습니다.\n\nMicrosoft ADPCM 코덱 설치 방법은 readme.txt 파일을 참조하십시오.
+973	Could not connect to website	웹사이트에 연결할 수 없습니다
+974	Could not find website	웹사이트를 찾을 수 없습니다
+975	Could not send data to website	웹사이트로 데이터를 보낼 수 없습니다
+976	Could not create version file	버전 파일을 만들 수 없습니다
+977	Could not get data from website	웹사이트에서 데이터를 가져올 수 없습니다
+978	There was an error verifying your version of Freespace, if you continue, you will not necessarily be up to date	Freespace 버전을 확인하는 중 오류가 발생했습니다. 계속하면 최신 상태가 아닐 수 있습니다
+979	Error opening version info file	버전 정보 파일을 여는 중 오류가 발생했습니다
+980	A new version of Freespace is available. You must update to the new version to play on PXO\n\nAuto update now?	Freespace의 새 버전이 있습니다. PXO에서 플레이하려면 새 버전으로 업데이트해야 합니다\n\n지금 자동으로 업데이트하시겠습니까?
+981	Verifying Freespace Version	Freespace 버전 확인 중
+982	Joining last channel (	마지막 채널에 참가하는 중 (
+983	Unable to join last channel	마지막 채널에 참가할 수 없습니다
+984	Autojoining public channel	공개 채널에 자동 참가하는 중
+985	Unable to autojoin public channel	공개 채널에 자동 참가할 수 없습니다
+986	You must define your connection speed.  Please run the Launcher, hit the setup button, and go to the Network tab and choose your connection speed.	연결 속도를 지정해야 합니다. 런처를 실행하여 설정 버튼을 누르고 네트워크 탭에서 연결 속도를 선택하십시오.
+987	There was an error parsing the mission file. This file contains illegal data	임무 파일을 분석하는 중 오류가 발생했습니다. 이 파일에는 잘못된 데이터가 들어 있습니다
+988	Unable to copy freespace.exe from update directory to installed directory.  You should copy freespace.exe from the update directory (located in your FreeSpace install directory) to your install directory	업데이트 디렉터리에서 설치 디렉터리로 freespace.exe를 복사할 수 없습니다. 업데이트 디렉터리(FreeSpace 설치 디렉터리 안에 있음)의 freespace.exe를 설치 디렉터리로 복사하십시오
+989	Single Mission\n\n%s	단일 임무\n\n%s
+990	Campaign Mission\n\n%s	캠페인 임무\n\n%s
+991	Loading missions	임무 불러오는 중
+992	Loading campaign missions	캠페인 임무 불러오는 중
+993	You cannot join this game because you are not running the Freespace Mission Disk	Freespace 미션 디스크를 실행 중이지 않아 이 게임에 참가할 수 없습니다
+994	You have selected a mission or campaign with Mission Disk content, but there are non-Mission Disk players present	미션 디스크 콘텐츠가 포함된 임무 또는 캠페인을 선택했지만, 미션 디스크가 없는 플레이어가 있습니다
+995	&Back	뒤로(&B)
+996	You have selected a mission which is either invalid or unknown to PXO. Your stats will not be saved if you continue	PXO에서 올바르지 않거나 알 수 없는 임무를 선택했습니다. 계속하면 통계가 저장되지 않습니다
+997	Warning\n\nIf you start a PXO mission by yourself, your stats will not be updated	경고\n\n혼자서 PXO 임무를 시작하면 통계가 업데이트되지 않습니다
+998	You were kicked because mission file xfer failed	임무 파일 전송에 실패하여 추방되었습니다
+999	You were kicked because you do not have the builtin mission	기본 제공 임무가 없어서 추방되었습니다
+1000	You were kicked because you were ingame joining a game that has ended	이미 종료된 게임에 게임 중 참가하여 추방되었습니다
+1001	<PXO stats store process complete>	<PXO 통계 저장 과정이 완료되었습니다>
+1002	<PXO stats store failed for player %s>	<플레이어 %s의 PXO 통계 저장에 실패했습니다>
+1003	<%s was kicked because of mission file xfer failure>	<%s이(가) 임무 파일 전송 실패로 추방되었습니다>
+1004	<%s was kicked for not having builtin mission %s>	<%s이(가) 기본 제공 임무 %s이(가) 없어 추방되었습니다>
+1005	<%s was kicked for ingame joining an ended game>	<%s이(가) 종료된 게임에 게임 중 참가하여 추방되었습니다>
+1006	Warning\n\nThis pilot has played PXO games. If you continue and play a non-PXO game, your stats will not be updated	경고\n\n이 파일럿은 PXO 게임을 플레이한 적이 있습니다. 계속해서 PXO가 아닌 게임을 플레이하면 통계가 업데이트되지 않습니다
+1007	Rank	계급
+1008	Missions Flown	비행한 임무 수
+1009	Flight Time	비행 시간
+1010	Last Flown	마지막 비행
+1011	Fighter Kills	전투기 격추 수
+1012	Primary Shots Fired	주 무기 발사 수
+1013	Primary Hit %	주 무기 명중률 %
+1014	Secondary Shots Fired	보조 무기 발사 수
+1015	Secondary Hit %	보조 무기 명중률 %
+1016	Turn (Yaw) Axis	선회(요) 축
+1017	Pitch Axis	피치 축
+1018	Bank Axis	뱅크 축
+1019	Absolute Throttle Axis	절대 스로틀 축
+1020	Relative Throttle Axis	상대 스로틀 축
+1021	Joystick/Mouse X Axis	조이스틱/마우스 X축
+1022	Joystick/Mouse Y Axis	조이스틱/마우스 Y축
+1023	Joystick Z Axis	조이스틱 Z축
+1024	Joystick rX Axis	조이스틱 rX축
+1025	Joystick rY Axis	조이스틱 rY축
+1026	Joystick rZ Axis	조이스틱 rZ축
+1027	Left Button	왼쪽 버튼
+1028	Right Button	오른쪽 버튼
+1029	Mid Button	가운데 버튼
+1030	L/R	좌/우
+1031	U/B	상/하
+1032	N	N
+1033	Y	Y
+1034	Create	만들기
+1035	Accept	수락
+1036	Options	옵션
+1037	Medals	훈장
+1038	Remove	삭제
+1039	Select	선택
+1040	Clone	복제
+1041	Single	싱글
+1042	Multi	멀티
+1043	Convert	변환
+1044	<Server detected a hacked ships.tbl. Stats will not be saved>	<서버에서 변조된 ships.tbl이 감지되었습니다. 통계가 저장되지 않습니다>
+1045	You are playing with a hacked ships.tbl, your stats will not be saved	변조된 ships.tbl로 플레이 중이므로 통계가 저장되지 않습니다
+1046	<Server detected a hacked weapons.tbl. Stats will not be saved>	<서버에서 변조된 weapons.tbl이 감지되었습니다. 통계가 저장되지 않습니다>
+1047	You are playing with a hacked weapons.tbl, your stats will not be saved	변조된 weapons.tbl로 플레이 중이므로 통계가 저장되지 않습니다
+1048	<Not enough players were present at game start or end, stats will not be saved>	<게임 시작 또는 종료 시 플레이어 수가 부족하여 통계가 저장되지 않습니다>
+1049	<Server detected a non PXO validated mission. Stats will not be saved>	<서버에서 PXO 인증을 받지 않은 임무가 감지되었습니다. 통계가 저장되지 않습니다>
+1050	This is not a PXO validated mission, your stats will not be saved	PXO 인증을 받은 임무가 아니므로 통계가 저장되지 않습니다
+1051	You or the server you are playing on has a hacked ships.tbl. Your stats will not be updated on PXO	당신 또는 플레이 중인 서버에 변조된 ships.tbl이 있습니다. PXO에서 통계가 업데이트되지 않습니다
+1052	You or the server you are playing on has a hacked weapons.tbl. Your stats will not be updated on PXO	당신 또는 플레이 중인 서버에 변조된 weapons.tbl이 있습니다. PXO에서 통계가 업데이트되지 않습니다
+1053	No/Invalid Image	이미지 없음/잘못됨
+1054	We have no recommendations for you.	드릴 권고 사항이 없습니다.
+1055	Technical Database	기술 데이터베이스
+1056	Mission Simulator	임무 시뮬레이터
+1057	Cutscenes	컷신
+1058	Credits	제작진
+1059	Exit	종료
+1060	Single Missions	단일 임무
+1061	Campaign Missions	캠페인 임무
+1062	Commit	확정
+1063	Mission	임무
+1064	Filename	파일명
+1065	Weapons	무기
+1066	Intelligence	정보
+1067	Ship Selection	함선 선택
+1068	Weapon Loadout	무기 장비
+1069	Continue	계속
+1070	Events	이벤트
+1071	Objectives	목표
+1072	Messages	메시지
+1073	You need to have at least %d players per squad for Squad War	스쿼드 워에는 스쿼드당 최소 %d명의 플레이어가 필요합니다
+1074	Validating mission %s	임무 %s 인증 중
+1075	Validating squad war	스쿼드 워 인증 중
+1076	Please enter the match code	매치 코드를 입력하십시오
+1077	SquadWar match does not check out. Please make sure the code you entered was correct and all players are valid members of their respective squads	스쿼드 워 매치가 확인되지 않았습니다. 입력한 코드가 올바른지, 모든 플레이어가 각자의 스쿼드 정식 구성원인지 확인하십시오
+1078	Storing SquadWar results	스쿼드 워 결과 저장 중
+1079	<SquadWar results stored on PXO>	<스쿼드 워 결과가 PXO에 저장되었습니다>
+1080	<SquadWar results rejected by PXO>	<스쿼드 워 결과가 PXO에서 거부되었습니다>
+1081	%s was killed by a beam from an unknown source	%s이(가) 출처 불명의 빔에 의해 격추되었습니다
+1082	%s was destroyed by a beam from %s	%s이(가) %s의 빔에 의해 파괴되었습니다
+1083	No 3D acceleration	3D 가속 없음
+1084	Video	비디오
+1085	Currently Selected Video Mode:	현재 선택된 비디오 모드:
+1086	A 3D accelerated video card must be selected in order to run Freespace 2.  Select your desired renderer from the above drop-down list.	Freespace 2를 실행하려면 3D 가속 비디오 카드를 선택해야 합니다. 위 드롭다운 목록에서 원하는 렌더러를 선택하십시오.
+1087	Detect Available Cards	사용 가능한 카드 감지
+1088	Options:	옵션:
+1089	Interlaced cutscenes	인터레이스 컷신
+1090	Fast clear for cutscenes	컷신 고속 지우기
+1091	Fast Direct3D textures (lower visual quality)	고속 Direct3D 텍스처 (시각 품질 저하)
+1092	Freespace 2 requires Glide or Direct3D hardware accleration. You will not be able to run Freespace 2 without it	Freespace 2를 실행하려면 Glide 또는 Direct3D 하드웨어 가속이 필요합니다. 이것 없이는 Freespace 2를 실행할 수 없습니다
+1093	Warning	경고
+1094	Up to Date	최신 상태
+1095	Update Required	업데이트 필요
+1096	Need to Install	설치 필요
+1097	Windows NT has DirectX built in.  If you are running NT 4.0 you should have Service Pack 3 (SP3) or later installed.  For detailed information on NT Service Packs (including download links), go to:\n%s.\n\nDo you want to go to this link?	Windows NT에는 DirectX가 내장되어 있습니다. NT 4.0을 사용 중이라면 서비스 팩 3(SP3) 이상이 설치되어 있어야 합니다. NT 서비스 팩에 대한 자세한 정보(다운로드 링크 포함)는 다음을 참조하십시오:\n%s.\n\n이 링크로 이동하시겠습니까?
+1098	Your version of DirectX is less than 5.0.  It is recommended that you install DirectX 5.0 on your system.\n\nDo you want to install DirectX 5.0?\n\n	DirectX 버전이 5.0 미만입니다. 시스템에 DirectX 5.0을 설치하는 것을 권장합니다.\n\nDirectX 5.0을 설치하시겠습니까?\n\n
+1099	Your version of DirectX is up to date.\nFor detailed information on the latest version of DirectX (including download links), go to:\n%s.\n\nDo you want to go to this link?	DirectX 버전이 최신입니다.\n최신 DirectX 버전에 대한 자세한 정보(다운로드 링크 포함)는 다음을 참조하십시오:\n%s.\n\n이 링크로 이동하시겠습니까?
+1100	DirectX Version Info	DirectX 버전 정보
+1101	Your DirectX Version	현재 DirectX 버전
+1102	Your Version Status	버전 상태
+1103	Freespace 2 requires DirectX 3.0 (or greater).  DirectX 6.0 is required for Direct3D, Force Feedback, and Direct Sound 3D.	Freespace 2에는 DirectX 3.0 이상이 필요합니다. Direct3D, 포스 피드백, Direct Sound 3D에는 DirectX 6.0이 필요합니다.
+1104	Install/Update DirectX	DirectX 설치/업데이트
+1105	FreeSpace 2 Launcher	FreeSpace 2 런처
+1106	FreeSpace 2 Demo Launcher	FreeSpace 2 데모 런처
+1107	The operating system is out of memory or resources.	운영 체제의 메모리 또는 리소스가 부족합니다.
+1108	The .EXE file is invalid (non-Win32 .EXE or error in .EXE image).	.EXE 파일이 올바르지 않습니다 (Win32 .EXE가 아니거나 .EXE 이미지 오류).
+1109	The operating system denied access to the specified file.	운영 체제가 지정된 파일에 대한 접근을 거부했습니다.
+1110	The filename association is incomplete or invalid.\r\n(You need to have a default Internet browser installed)	파일 연결이 불완전하거나 올바르지 않습니다.\r\n(기본 인터넷 브라우저가 설치되어 있어야 합니다)
+1111	The DDE transaction could not be completed because other DDE transactions were being processed.	다른 DDE 트랜잭션이 처리 중이어서 DDE 트랜잭션을 완료할 수 없습니다.
+1112	The DDE transaction failed.	DDE 트랜잭션이 실패했습니다.
+1113	The DDE transaction could not be completed because the request timed out.	요청 시간이 초과되어 DDE 트랜잭션을 완료할 수 없습니다.
+1114	The specified dynamic-link library was not found.	지정된 동적 연결 라이브러리를 찾을 수 없습니다.
+1115	There was not enough memory to complete the operation.	작업을 완료하기에 메모리가 부족합니다.
+1116	A sharing violation occurred.	공유 위반이 발생했습니다.
+1117	\r\nNo web browser found.  There isn't one installed or if \r\none is installed, it isn't set to be the default browser.\r\n\r\n	\r\n웹 브라우저를 찾을 수 없습니다. 설치된 브라우저가 없거나, \r\n설치되어 있어도 기본 브라우저로 설정되어 있지 않습니다.\r\n\r\n
+1118	Unknown error occurred.	알 수 없는 오류가 발생했습니다.
+1119	Warning!	경고!
+1120	You must allow Setup to configure your default settings before playing Freespace 2 for the first time.\n\nTo do this, press the 'Setup' button from the main menu and examine each tab.  Then, press the 'OK' button at the bottom.	Freespace 2를 처음 플레이하기 전에 설정에서 기본 설정을 구성해야 합니다.\n\n메인 메뉴에서 '설정' 버튼을 누르고 각 탭을 확인하십시오. 그런 다음 아래쪽의 '확인' 버튼을 누르십시오.
+1121	No Rendering Device Selected!	렌더링 장치가 선택되지 않았습니다!
+1122	You must allow Setup to configure your Video Card setting before playing Freespace 2.\n\nTo do this, press the 'Setup' button from the main menu and click on the Video Tab.  Then, press the 'Detect Available Cards' button and choose your video mode.  Finally, press the 'OK' button at the bottom.	Freespace 2를 플레이하기 전에 설정에서 비디오 카드 설정을 구성해야 합니다.\n\n메인 메뉴에서 '설정' 버튼을 누르고 비디오 탭을 클릭하십시오. 그런 다음 '사용 가능한 카드 감지' 버튼을 누르고 비디오 모드를 선택하십시오. 마지막으로 아래쪽의 '확인' 버튼을 누르십시오.
+1123	DirectX 3.0 or higher Required!	DirectX 3.0 이상이 필요합니다!
+1124	You must install DirectX 3.0 or higher to run Freespace 2.\n\nTo do this, press the 'Setup' button from the main menu and click on the 'DirectX' tab and follow the direction on it.	Freespace 2를 실행하려면 DirectX 3.0 이상을 설치해야 합니다.\n\n메인 메뉴에서 '설정' 버튼을 누르고 'DirectX' 탭을 클릭한 다음 안내를 따르십시오.
+1125	Error Launching FreeSpace	FreeSpace 실행 오류
+1126	Setup	설정
+1127	Error Loading README.TXT	README.TXT 불러오기 오류
+1128	No uninstall information found.	제거 정보를 찾을 수 없습니다.
+1129	Are you sure you want to delete '%s' and all of its components?	'%s'과(와) 모든 구성 요소를 정말 삭제하시겠습니까?
+1130	Confirm File Deletion	파일 삭제 확인
+1131	Error Launching Uninstaller	제거 프로그램 실행 오류
+1132	Welcome to FreeSpace 2!	FreeSpace 2에 오신 것을 환영합니다!
+1133	Since this is your first time running FreeSpace 2, you will now be automatically taken to the Setup window.  \n\nNOTE TO USER:\nIt is important that you view each section of the Setup window and configure it to your liking.  Press the Help button if you have questions about a particular section.  Once you are satisfied with your settings, select the OK button at the bottom of the Setup window to save them.	FreeSpace 2를 처음 실행하므로 이제 자동으로 설정 창으로 이동합니다.  \n\n사용자 참고:\n설정 창의 각 항목을 확인하고 원하는 대로 구성하는 것이 중요합니다. 특정 항목에 대해 궁금한 점이 있으면 도움말 버튼을 누르십시오. 설정이 만족스러우면 설정 창 아래쪽의 확인 버튼을 눌러 저장하십시오.
+1134	Joystick	조이스틱
+1135	<None>	<없음>
+1136	Current Joystick	현재 조이스틱
+1137	Enable Force Feedback	포스 피드백 사용
+1138	Enable Directional Hit (Force Feedback)	방향성 피격 사용 (포스 피드백)
+1139	Calibrate	보정
+1140	Detect Available Joysticks	사용 가능한 조이스틱 감지
+1141	FreeSpace CD not located.  Please insert FreeSpace CD #1 and select OK to continue.	FreeSpace CD를 찾을 수 없습니다. FreeSpace CD #1을 넣고 확인을 눌러 계속하십시오.
+1142	Misc	기타
+1143	Select Language	언어 선택
+1144	Optional Command Line	선택적 명령줄
+1145	Couldn't Uninstall	제거할 수 없습니다
+1146	Network	네트워크
+1147	Internet Connection	인터넷 연결
+1148	Connection Speed	연결 속도
+1149	None	없음
+1150	Dialup Networking	전화 접속 네트워킹
+1151	LAN/Direct Connection (and AOL)	LAN/직접 연결 (AOL 포함)
+1152	None Specified	지정 안 됨
+1153	Slower than 56K Modem	56K 모뎀보다 느림
+1154	56K Modem	56K 모뎀
+1155	Single Channel ISDN	단일 채널 ISDN
+1156	Dual Channel ISDN, Cable Modems	이중 채널 ISDN, 케이블 모뎀
+1157	T1, ADSL, T3, etc.	T1, ADSL, T3 등
+1158	Error reading CD.	CD 읽기 오류.
+1159	Speed	속도
+1160	Low	낮음
+1161	Medium	중간
+1162	High	높음
+1163	Very High	매우 높음
+1164	Default Detail Level:	기본 세부 수준:
+1165	Properties	속성
+1166	CPU Type:	CPU 종류:
+1167	CPU Speed:	CPU 속도:
+1168	Total RAM:	총 RAM:
+1169	RAM Transfer Rate:	RAM 전송 속도:
+1170	VRAM Transfer Rate:	VRAM 전송 속도:
+1171	3D Graphics Accelerator*:	3D 그래픽 가속기*:
+1172	*Configured in the 'Video' tab.	*'비디오' 탭에서 설정됨.
+1173	Detect	감지
+1174	Audio	오디오
+1175	Aureal sound card detected, but you need updated drivers.  Download them from www.a3d.com	Aureal 사운드 카드가 감지되었지만 드라이버를 업데이트해야 합니다. www.a3d.com에서 내려받으십시오
+1176	This is non-Aureal-certified A3D!\nPlease upgrade your drivers at www.a3d.com	Aureal 인증을 받지 않은 A3D입니다!\n www.a3d.com에서 드라이버를 업그레이드하십시오
+1177	No Sound	소리 없음
+1178	Currently Selected Sound Card	현재 선택된 사운드 카드
+1179	Detect Available Sound Cards	사용 가능한 사운드 카드 감지
+1180	Enable Launcher Sounds	런처 소리 사용
+1181	The Freespace 2 Launcher needs to be updated to a newer version.\nHowever, the replacement executable or patch file could not be accessed.\n\nTherefore, the Launcher cannot be updated at this time.	Freespace 2 런처를 최신 버전으로 업데이트해야 합니다.\n그러나 교체용 실행 파일 또는 패치 파일에 접근할 수 없습니다.\n\n따라서 지금은 런처를 업데이트할 수 없습니다.
+1182	The Freespace 2 Launcher needs to be updated to a newer version.\nHowever, the Update Launcher executable could not be found (or could not be accessed).\n\nTherefore, the Launcher cannot be updated at this time.	Freespace 2 런처를 최신 버전으로 업데이트해야 합니다.\n그러나 런처 업데이트 실행 파일을 찾을 수 없습니다 (또는 접근할 수 없습니다).\n\n따라서 지금은 런처를 업데이트할 수 없습니다.
+1183	The Freespace 2 Launcher needs to be updated to a newer version.\nIt will now be shutdown, modified, and then restarted.\n\nThis may take several seconds...	Freespace 2 런처를 최신 버전으로 업데이트해야 합니다.\n런처가 종료되고, 수정된 후, 다시 시작됩니다.\n\n몇 초 정도 걸릴 수 있습니다...
+1184	Launcher Update	런처 업데이트
+1185	Error!	오류!
+1186	Up to date	최신 상태
+1187	Waiting for User	사용자 대기 중
+1188	Select Patch Download Site	패치 다운로드 사이트 선택
+1189	Patching Failed!!	패치 실패!!
+1190	Connecting	연결 중
+1191	Downloading File	파일 다운로드 중
+1192	URL redirected	URL이 리디렉션되었습니다
+1193	Download Cancelled	다운로드가 취소되었습니다
+1194	Sorry, there is no message of the day.	죄송합니다. 오늘의 메시지가 없습니다.
+1195	Unable to continue!!  Press Cancel.	계속할 수 없습니다!!  취소를 누르십시오.
+1196	Unable to continue	계속할 수 없습니다
+1197	File not Found Error	파일을 찾을 수 없음 오류
+1198	File Download HTTP error.  Status code: %d	파일 다운로드 HTTP 오류.  상태 코드: %d
+1199	Downloading MOTD File	MOTD 파일 다운로드 중
+1200	Downloading Version Info File	버전 정보 파일 다운로드 중
+1201	Downloading Sites File	사이트 파일 다운로드 중
+1202	Unable to read sites from version.nfo	version.nfo에서 사이트를 읽을 수 없습니다
+1203	Downloading Patch File	패치 파일 다운로드 중
+1204	Download %d bytes of %d  (%d%%)	%d / %d 바이트 다운로드  (%d%%)
+1205	Couldn't parse Version file!	버전 파일을 분석할 수 없습니다!
+1206	The Freespace 2 Auto-Update program could not find your current game Version in the system registry.\n\nThis should be corrected by starting up the game, exiting the game, and then running the Auto-Update program.	Freespace 2 자동 업데이트 프로그램이 시스템 레지스트리에서 현재 게임 버전을 찾을 수 없습니다.\n\n게임을 실행했다가 종료한 후 자동 업데이트 프로그램을 실행하면 해결됩니다.
+1207	Unable to Determine User's Version	사용자의 버전을 확인할 수 없습니다
+1208	Press OK to download the new version of Freespace 2!!	확인을 눌러 Freespace 2의 새 버전을 내려받으십시오!!
+1209	A new version of Freespace 2 is available!!!  Press the OK button to download it.	Freespace 2의 새 버전이 있습니다!!!  확인 버튼을 눌러 내려받으십시오.
+1210	Determination: No Update Necessary	판정: 업데이트 필요 없음
+1211	Your Freespace 2 version %d.%02d is currently up to date.	Freespace 2 버전 %d.%02d은(는) 현재 최신 상태입니다.
+1212	Patching Error	패치 오류
+1213	Processing %s	%s 처리 중
+1214	File Complete!	파일 완료!
+1215	Searching for systems to update...	업데이트할 시스템을 검색하는 중...
+1216	Patching Failed!	패치 실패!
+1217	Patch Library not found.	패치 라이브러리를 찾을 수 없습니다.
+1218	Patch Library not found.  Cannot Patch Freespace 2.	패치 라이브러리를 찾을 수 없습니다.  Freespace 2를 패치할 수 없습니다.
+1219	Beginning Patching...	패치를 시작하는 중...
+1220	Patching Complete!	패치 완료!
+1221	Error: URL could not be parsed	오류: URL을 분석할 수 없습니다
+1222	Error: Site redirects with no new location	오류: 사이트가 새 위치 없이 리디렉션됩니다
+1223	Insufficient disk space to download file: 	파일을 내려받을 디스크 공간이 부족합니다: 
+1224	Error trying to download file	파일을 내려받는 중 오류가 발생했습니다
+1225	Error trying to write file	파일을 쓰는 중 오류가 발생했습니다
+1226	You must select a download site.	다운로드 사이트를 선택해야 합니다.
+1227	Site Selection	사이트 선택
+1228	You must select a download site.	다운로드 사이트를 선택해야 합니다.
+1229	Site Name	사이트 이름
+1230	URL	URL
+1231	Location	위치
+1232	The site info file could not be opened and parsed.	사이트 정보 파일을 열거나 분석할 수 없습니다.
+1233	Freespace 2 Auto-Update	Freespace 2 자동 업데이트
+1234	Message of the Day:	오늘의 메시지:
+1235	Your Version:	현재 버전:
+1236	Latest Version:	최신 버전:
+1237	Progress:	진행률:
+1238	Status:	상태:
+1239	Patch Download Site Selection	패치 다운로드 사이트 선택
+1240	Select the site you wish to download from:	다운로드할 사이트를 선택하십시오:
+1241	Updating the Freespace 2 Launcher...	Freespace 2 런처를 업데이트하는 중...
+1242	Please Wait	기다려 주십시오
+1243	ERROR: This program was executed outside of the Freespace 2 Launcher!	오류: 이 프로그램이 Freespace 2 런처 밖에서 실행되었습니다!
+1244	ERROR: Could not find file:  %s	오류: 파일을 찾을 수 없습니다:  %s
+1245	ERROR: Could not access file:  %s	오류: 파일에 접근할 수 없습니다:  %s
+1246	ERROR: Could not delete file:  %s	오류: 파일을 삭제할 수 없습니다:  %s
+1247	ERROR: Could not rename file:  %s	오류: 파일 이름을 바꿀 수 없습니다:  %s
+1248	ERROR: The patch application function could not be obtained from the DLL.	오류: DLL에서 패치 적용 함수를 가져올 수 없습니다.
+1249	ERROR: The patch could not be completed successfully.	오류: 패치를 성공적으로 완료할 수 없습니다.
+1250	Starting up the old Freespace 2 Launcher...	이전 Freespace 2 런처를 시작하는 중...
+1251	Starting up the new Freespace 2 Launcher...	새 Freespace 2 런처를 시작하는 중...
+1252	ERROR: The Launcher could not be restarted.	오류: 런처를 다시 시작할 수 없습니다.
+1253	Freespace 2 Launcher Update Error	Freespace 2 런처 업데이트 오류
+1254	The launcher has not been updated.	런처가 업데이트되지 않았습니다.
+1255	Unassigned	지정 안 됨
+1256	All	전체
+1257	Coop	협동
+1258	Team	팀
+1259	Dogfight	도그파이트
+1260	Refresh Missions	임무 새로 고침
+1261	Pilot Info	파일럿 정보
+1262	Missions	임무
+1263	Campaigns	캠페인
+1264	1	1
+1265	2	2
+1266	Kick	추방
+1267	Host Options	호스트 옵션
+1268	Create Game	게임 만들기
+1269	Players	플레이어
+1270	Lock	잠금
+1271	has hacked tables/data	변조된 테이블/데이터가 있음
+1272	One or more players has hacked data files. You cannot play a SquadWar match unless all clients have legal data	한 명 이상의 플레이어가 데이터 파일을 변조했습니다. 모든 클라이언트의 데이터가 정상이어야 스쿼드 워 매치를 플레이할 수 있습니다
+1273	One or more players has hacked data files. If you continue, stats will not be stored at the end of the mission	한 명 이상의 플레이어가 데이터 파일을 변조했습니다. 계속하면 임무 종료 시 통계가 저장되지 않습니다
+1274	One or more players has hacked data files	한 명 이상의 플레이어가 데이터 파일을 변조했습니다
+1275	<Team 1 had %d points>	<1팀 득점: %d점>
+1276	<Team 2 had %d points>	<2팀 득점: %d점>
+1277	<Match was a tie>	<매치는 무승부였습니다>
+1278	<Team 1 (green) is the winner>	<1팀(녹색)이 승리했습니다>
+1279	<Team 2 (red) is the winner>	<2팀(적색)이 승리했습니다>
+1280	Highest rank	최고 계급
+1281	Team / wing-leader	팀 / 윙 리더
+1282	Any	아무나
+1283	Host	호스트
+1284	Skill level	난이도
+1285	On	켜짐
+1286	Off	꺼짐
+1287	Host modifies ships	호스트가 함선 수정
+1288	Respawn Limit	재출격 제한
+1289	AI Orders	AI 명령
+1290	End Mission	임무 종료
+1291	Time Limit	시간 제한
+1292	Min	분
+1293	Kill Limit	격추 제한
+1294	Observers	관전자
+1295	Voice Transmission	음성 전송
+1296	Voice Quality	음성 품질
+1297	Message Duration	메시지 지속 시간
+1298	Voice Wait	음성 대기
+1299	Refresh	새로 고침
+1300	Join as	참가 유형
+1301	Observer	관전자
+1302	Game	게임
+1303	Join	참가
+1304	Status	상태
+1305	Server	서버
+1306	Players	플레이어
+1307	Ping	핑
+1308	Team 1	1팀
+1309	Team 2	2팀
+1310	Pilot	파일럿
+1311	Info	정보
+1312	Choose Team	팀 선택
+1313	Web	웹
+1314	Ranking	순위
+1315	Find	찾기
+1316	Motd	오늘의 메시지
+1317	Channel	채널
+1318	Private	비공개
+1319	Games	게임
+1320	Squad	스쿼드
+1321	Channels	채널
+1322	Open	열림
+1323	Closed	닫힘
+1324	Restricted	제한됨
+1325	Password Protected	비밀번호 보호
+1326	Allow Rank	허용 계급
+1327	Above	이상
+1328	Below	이하
+1329	Start Game	게임 시작
+1330	Title	제목
+1331	Game Type	게임 유형
+1332	Enter Password	비밀번호 입력
+1333	Statistics	통계
+1334	Recommendations	권고 사항
+1335	Play	플레이
+1336	Loading	불러오는 중
+1337	Reset	초기화
+1338	%s was killed by friendly fire from %s	%s이(가) %s의 아군 사격에 의해 격추되었습니다
+1339	%s was destroyed by friendly beam fire from %s	%s이(가) %s의 아군 빔 사격에 의해 파괴되었습니다
+1340	Targeting	타기팅
+1341	Ship	함선
+1342	Invert	반전
+1343	Undo	되돌리기
+1344	Defaults	기본값
+1345	Search	검색
+1346	Bind	지정
+1347	Clear	충돌
+1348	Conflict	지우기
+1349	All	지우기
+1350	Selected	지우기
+1351	Detail	세부 수준
+1352	Control	조작
+1353	Config	설정
+1354	HUD	HUD
+1355	Preset Detail Levels	프리셋 세부 수준
+1356	Custom	사용자 지정
+1357	Planets/backgrounds	행성/배경
+1358	Target View Rendering	대상 시점 렌더링
+1359	Weapon Extras	무기 추가 효과
+1360	Model Detail	모델 세부 수준
+1361	Nebula Detail	성운 세부 수준
+1362	3D Hardware Textures	3D 하드웨어 텍스처
+1363	Particles	파티클
+1364	Impact Effects	충돌 효과
+1365	Shield Hit Effects	방어막 피격 효과
+1366	Stars	별
+1367	Lighting	조명
+1368	Briefing Voice	브리핑 음성
+1369	Volume	볼륨
+1370	Effects	효과음
+1371	Music	음악
+1372	Voice	음성
+1373	Mouse	마우스
+1374	Sensitivity	감도
+1375	Brightness	밝기
+1376	Joystick	조이스틱
+1377	Deadzone	데드존
+1378	TCP	TCP
+1379	IPX	IPX
+1380	IP Address	IP 주소
+1381	add	추가
+1382	rem.	제거
+1383	PXO	PXO
+1384	Login	로그인
+1385	Password	비밀번호
+1386	Squadron	스쿼드런
+1387	Broadcast Locally	로컬 방송
+1388	General	일반
+1389	Mic test	마이크 테스트
+1390	Mute	음소거
+1391	Object Update	객체 업데이트
+1392	Lan	LAN
+1393	Pilot / Squad Images	파일럿 / 스쿼드 이미지
+1394	Yes	예
+1395	No	아니오
+1396	Transfer Missions	임무 전송
+1397	/multidata	/multidata
+1398	/missions	/missions
+1399	Flush Cache	캐시 비우기
+1400	Never	안 함
+1401	Before Game	게임 전
+1402	You have selected IPX for multiplayer Freespace, but the IPX protocol was not detected on your machine.	멀티플레이어 Freespace에 IPX를 선택하셨지만, 컴퓨터에서 IPX 프로토콜이 감지되지 않았습니다.
+1403	Restart	다시 시작
+1404	Campaign	캠페인
+1405	Replay	다시 하기
+1406	Incoming Transmission	수신 교신
+1407	complete	완료
+1408	Create	생성
+1409	Select	선택
+1410	Mission	임무
+1411	Misc	기타
+1412	Game	게임
+1413	Clear	전체
+1414	Clear	선택
+1415	Config	설정
+1416	Exit	종료
+1417	Exit	종료
+1418	Exit	종료
+1419	Exit	종료
+1420	Exit	종료
+1421	You have killed yourself with a shockwave from your own weapon	자신의 무기에서 발생한 충격파로 스스로를 격추했습니다
+1422	You have killed yourself with your own missiles	자신의 미사일에 스스로를 격추했습니다
+1423	name	이름
+1424	class	분류
+1425	status	상태
+1426	primary	주 무기
+1427	secondary	보조 무기
+1428	Blast	폭발
+1429	Engine Wash	엔진 후류
+1430	Evaded	회피함
+1431	Collision	충돌
+1432	Replay previous mission	이전 임무 다시 하기
+1433	You cannot join a game in progress unless it is a dogfight mission.	진행 중인 게임에는 도그파이트 임무가 아니면 참가할 수 없습니다.
+1434	Barracks	병영
+1435	Pilot Stats	파일럿 통계
+1436	Choose Pilot	파일럿 선택
+1437	Complete	완료
+1438	Incomplete	미완료
+1439	Failed	실패
+1440	Mission Paused	임무 일시정지
+1441	Press ESC to return to the game	게임으로 돌아가려면 ESC를 누르십시오
+1442	Skip Training	훈련 건너뛰기
+1443	Don't show me this again	이 메시지를 다시 표시하지 않음
+1444	&Next	다음(&N)
+1445	You cannot change your squadron in Single Player mode.	싱글 플레이어 모드에서는 스쿼드런을 변경할 수 없습니다.
+1446	Please configure your system in the Launcher before running FS2.\n\n The Launcher will now be started!	FS2를 실행하기 전에 런처에서 시스템을 설정하십시오.\n\n이제 런처가 시작됩니다!
+1447	Attention!	주의!
+1448	Warning, Freespace 2 requires Glide or Direct3D hardware accleration. You will not be able to run Freespace 2 without it.	경고, Freespace 2를 실행하려면 Glide 또는 Direct3D 하드웨어 가속이 필요합니다. 이것 없이는 Freespace 2를 실행할 수 없습니다.
+1449	Warning	경고
+1450	The Launcher could not be restarted.	런처를 다시 시작할 수 없습니다.
+1451	Error	오류
+1452	Previous Mission	이전 임무
+1453	Popup	팝업
+1454	Save	저장
+1455	Amber	황색
+1456	Blue	파랑
+1457	Green	녹색
+1458	Brightness	밝기
+1459	warning flash	경고 점멸
+1460	comm menu	통신 메뉴
+1461	support gauge	지원 게이지
+1462	lag gauge	지연 게이지
+1463	auto	자동
+1464	speed	속도
+1465	target	대상
+1466	Exit	종료
+1467	Decline	거절
+1468	Please insert CD %d	CD %d을(를) 넣으십시오
+1469	more	더 보기
+1470	You have failed this mission five times.	이번 임무에 다섯 번 실패했습니다.
+1471	If you like, you may advance to the next mission.	원하시면 다음 임무로 넘어갈 수 있습니다.
+1472	You have failed this mission five times.  If you like, you may advance to the next mission.	이번 임무에 다섯 번 실패했습니다.  원하시면 다음 임무로 넘어갈 수 있습니다.
+1473	Do Not Skip This Mission	이 임무를 건너뛰지 않기
+1474	Advance To The Next Mission	다음 임무로 넘어가기
+1475	Don't Show Me This Again	이 메시지를 다시 표시하지 않음
+1476	Self destructed	자폭함
+1477	Exit Loop	루프 나가기
+1478	SquadWar results invalidated	스쿼드 워 결과가 무효화되었습니다
+1479	\r\nUnable to locate Fred Help file: \\data\\freddocs\\index.html\r\n	\r\nFred 도움말 파일을 찾을 수 없습니다: \\data\\freddocs\\index.html\r\n
+1480	DirectDraw could not be initialized on your system.  DirectDraw v6.0 or higher\nis required in order to play FreeSpace 2.	시스템에서 DirectDraw를 초기화할 수 없습니다.  FreeSpace 2를 플레이하려면 DirectDraw v6.0 이상이\n필요합니다.
+1481	Attention!	주의!
+1482	Need to run FreeSpace 2 first to set version info.	버전 정보를 설정하려면 먼저 FreeSpace 2를 실행해야 합니다.
+1483	Original '%s' contents do not match, update aborted.  Re-installing may be necessary.  \n\n	원본 '%s'의 내용이 일치하지 않아 업데이트가 중단되었습니다.  다시 설치해야 할 수 있습니다.  \n\n
+1484	If problem persists, please contact Volition Support, support@pxo.net.	문제가 계속되면 Volition 지원팀(support@pxo.net)에 문의하십시오.
+1485	Detect Direct3D	Direct3D 감지
+1486	Detect Glide	Glide 감지
+1487	Turret	터렛
+1488	 subsystem cargo revealed: 	 서브시스템 화물 확인됨: 
+1489	Exit Loop\n\n\n\nAre you sure you want to leave the mission loop?	루프 나가기\n\n\n\n임무 루프에서 정말 나가시겠습니까?
+1490	<No Mission Loop Description Available>	<임무 루프 설명이 없습니다>
+1491	\n\n\nDo you want to play the optional mission?	\n\n\n선택 임무를 플레이하시겠습니까?
+1492	OK	확인
+1493	Nothing	없음
+1494	%s was killed by engine wash from %s	%s이(가) %s의 엔진 후류에 의해 격추되었습니다
+1495	There is a limit of %d ships in the mission at once.  Please be sure that you do not have more than %d ships present in the mission at the same time.	임무에는 동시에 최대 %d척의 함선만 존재할 수 있습니다.  임무에 동시에 존재하는 함선이 %d척을 넘지 않도록 하십시오.
+1496	An error occured while patching the Launcher, 'FreeSpace2.exe'.\nThe remaining files were updated successfully, but your Launcher is still out-of-date.\nWe recommend that you manually download the latest Launcher from our website:\n\n	런처 'FreeSpace2.exe'를 패치하는 중 오류가 발생했습니다.\n나머지 파일은 성공적으로 업데이트되었지만 런처는 여전히 최신 버전이 아닙니다.\n웹사이트에서 최신 런처를 직접 내려받는 것을 권장합니다:\n\n
+1497	\n\nDo you want to want to visit the site now?	\n\n지금 사이트를 방문하시겠습니까?
+1498	Error Patching the Launcher	런처 패치 오류
+1499	Vertex fog or Table fog\r\n	버텍스 포그 또는 테이블 포그\r\n
+1500	Joining netgame	넷게임 참가 중
+1501	<kicking %s ...>	<%s 추방 중 ...>
+1502	Force WFOG (not recommended)	WFOG 강제 사용 (권장하지 않음)
+1503	Disable Direct3D Zbuffer bias	Direct3D Z버퍼 바이어스 비활성화
+1504	Briefing	브리핑
+1505	Join	참가
+1506	Join	참가
+1507	Launch	발사
+1508	Close	닫기
+1509	Skill Level	난이도
+1510	Alt	Alt
+1511	Shift	Shift
+1512	R	R
+1513	G	G
+1514	B	B
+1515	I	I
+1516	Cancel	취소
+1517	Clear	지우기
+1518	Reset	초기화
+1519	Help	도움말
+1520	Options	옵션
+1521	Accept	수락
+1522	sec	초
+1523	sec	초
+1524	&Go back	돌아가기(&G)
+1525	&Continue	계속(&C)
+1526	Mission score	임무 점수
+1527	Score	점수
+1528	Voice	음성
+1529	Sensitivity	감도
+1530	Voice Transmission	음성 전송
+1531	Voice Quality	음성 품질
+1532	Name	이름
+1533	Rank	계급
+1534	Kills	격추 수
+1535	Assists	지원 횟수
+1536	Friendly kills	아군 격추 수
+1537	Missions flown	비행한 임무 수
+1538	Flight time	비행 시간
+1539	Last flown	마지막 비행
+1540	Primary shots fired	주 무기 발사 수
+1541	Primary shots hit	주 무기 명중 수
+1542	Primary hit %	주 무기 명중률 %
+1543	Secondary shots fired	보조 무기 발사 수
+1544	Secondary shots hit	보조 무기 명중 수
+1545	Secondary hit %	보조 무기 명중률 %
+1546	Primary friendly hits	주 무기 아군 명중 수
+1547	Primary friendly hit %	주 무기 아군 명중률 %
+1548	Secondary friendly hits	보조 무기 아군 명중 수
+1549	Secondary friendly hit %	보조 무기 아군 명중률 %
+1550	Select	선택
+1551	All	전체
+1552	Select	선택
+1553	Weapons	무기
+1554	Detect 32 bit	32비트 감지
+1555	Detect hi-res	고해상도 감지
+1556	PXO Account	PXO 계정
+1557	Login	로그인
+1558	Password	비밀번호
+1559	Skip version check in PXO	PXO에서 버전 확인 건너뛰기
+1560	PXO Banners	PXO 배너
+1561	Misc	기타
+1562	Force local port	로컬 포트 강제 지정
+1563	German	독일어
+1564	English	영어
+1565	NEW USER TIP\n\n%s	신규 사용자 팁\n\n%s
+1566	Flak turret	대공포 터렛
+1567	Beam turret	빔 터렛
+1568	Laser turret	레이저 터렛
+1569	Missile lnchr	미사일 발사기
