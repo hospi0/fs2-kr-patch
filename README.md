@@ -1,6 +1,6 @@
 # 프리스페이스 2 한글 패치
 
-**내려받기: [최신 v0.8 릴리즈](https://github.com/hospi0/fs2-kr-patch/releases/latest)** — `FS2KR_v0.8.zip`
+**내려받기: [최신 v0.81 릴리즈](https://github.com/hospi0/fs2-kr-patch/releases/latest)** — `FS2KR_v0.81.zip`
 
 FreeSpace 2 (PC, GOG/스팀) 를 [Knossos.NET](https://fsnebula.org/knossos/) + MediaVPs 5.0.2 로 즐길 때 쓰는 한글 모드(FS2KR)입니다.
 미션 무전·브리핑·디브리핑·목표·기술실 설명·메뉴(SCPUI 포함)를 한글로 바꿉니다. 무전 음성은 영어 그대로, 화면 메시지가 한글로 나옵니다.
@@ -11,7 +11,7 @@ FreeSpace 2 (PC, GOG/스팀) 를 [Knossos.NET](https://fsnebula.org/knossos/) + 
 - FSO 엔진 25.0.0 이상 (26.0.1 에서 확인)
 
 ## 설치
-1. 릴리즈 zip 안의 `FS2KR-0.8` 폴더를 Knossos 라이브러리의 `FS2` 폴더에 넣습니다 (`...\Knossos.NET\FS2\FS2KR-0.8\mod.json`).
+1. 릴리즈 zip 안의 `FS2KR-0.81` 폴더를 Knossos 라이브러리의 `FS2` 폴더에 넣습니다 (`...\Knossos.NET\FS2\FS2KR-0.81\mod.json`).
 2. Knossos.NET 에서 **Reload Data** → Play 목록의 «FreeSpace 2 한글 패치» 로 실행합니다.
 
 자세한 내용은 zip 안 `설치방법.txt` 를 보세요.
