@@ -115,6 +115,11 @@ def main():
             errs.append('빈 번역 %s' % k)
         if '"' in t:
             errs.append('큰따옴표 %s' % k)
+        # 색 태그 «$x 낱말$|»: SCPUI 는 $x 뒤 «낱말 하나»만 칠하고(공백에서 끝) 남은 $| 를 만나면
+        # «Color block error» 로 멈춘다(브리핑 끝 크래시, 하스피 2026-10-13) → $x 와 $| 사이에 공백 금지
+        for m in re.finditer(r'\$[a-zA-Z]\s*([^$]*?)\$\|', t):
+            if re.search(r'\s', m.group(1).strip()):
+                errs.append('색 태그 안 공백 %s «%s»' % (k, m.group(0)))
     if os.path.exists(OUT):
         for x in os.listdir(OUT):          # 폴더 자체는 남김(다른 프로세스가 현재 폴더로 잡고 있으면 rmdir 실패)
             q = os.path.join(OUT, x)
